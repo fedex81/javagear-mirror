@@ -1,0 +1,2 @@
+Put rom files in this directory.
+Set them up in build.properties.

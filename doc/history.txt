@@ -1,0 +1,133 @@
+------------------------------------------------------------------------------
+v 0.97 - 6th July 2008
+------------------------------------------------------------------------------
+
+New Features
+
+ + J2SE: Proper Application Interface
+ + J2SE: Added Windows EXE launcher for ease of use
+ + J2ME: Experimental speed increase, by using specially compiled version
+         of proguard. (~10% faster on my Sony Ericsson)
+ + Reworked documentation
+ 
+------------------------------------------------------------------------------
+v 0.96 - 23rd June 2008
+------------------------------------------------------------------------------
+ 
+ New Features:
+ 
+ + J2SE: Sound Emulation (SN76489 Chip). 
+   Sampled Speech is supported unlike the original version of JavaGear.
+   I did try to support sound on the mobile version, but it sounded terrible.
+ + J2SE: Reimplemented better throttling code
+ + Sped up screen scaling in Game Gear mode
+ + Sped up Z80 Emulation
+
+ Bug Fixes:
+ 
+ + J2ME: Fixed issue where states wouldn't save depending on filename of game
+ + Romtool: MIDLET-1 tag in JAD file was not updated correctly
+
+------------------------------------------------------------------------------
+v 0.95 - 2nd June 2008
+------------------------------------------------------------------------------
+
+ New Features:
+ 
+ + Added save state support
+ + Reorganised menus
+ + Error messages printed to screen
+ + Z80 Emulation optimized, and using final methods to help obfuscator
+
+ Bug Fixes:
+ 
+ + Corrected palette, so that it is brighter.
+ + Updated RomTool to work with older JVM (1.1+)
+ 
+
+------------------------------------------------------------------------------
+v 0.94a - 30th May 2008
+------------------------------------------------------------------------------
+ 
+ New Features:
+ 
+ + J2SE: Can load roms from ZIP files
+ + J2SE: Should work in older versions of JVM now by default (1.1+)
+
+ Bug Fixes:
+
+ + Minor correction to interrupt flag that is not used by any SMS software I
+   know of.
+ + Fixed bug where vscroll value could be changed during active display period 
+
+
+------------------------------------------------------------------------------
+v 0.94 - 24th May 2008
+------------------------------------------------------------------------------
+
+ New Features:
+ 
+ + Added applet version
+ + Application can now load a rom on the command line
+
+ Bug Fixes:
+
+ + Fixed bug where screen rotation was sometimes not updated
+ 
+
+------------------------------------------------------------------------------
+v 0.93 - 20th May 2008
+------------------------------------------------------------------------------
+
+ Improved Emulation Accuracy:
+ 
+ + Fixed interrupt issue where VBLANK could be taken within instructions.
+ + Fixed Back To The Future 2. (Not that you'd ever want to play it.)
+ + Fixed Bonkers Wax Up!
+   Both games tried to perform an invalid memory read.
+   
+ Bug Fixes:
+ 
+ + Fixed PAL/NTSC bug where mode was not always correctly set.
+ + J2SE: Made this version scale screen by default
+ 
+ Source Code:
+ 
+ + Much easier to package for distribution. Just run the release ant script :)
+
+
+------------------------------------------------------------------------------
+v 0.92 - 12th May 2008
+------------------------------------------------------------------------------
+ 
+ New Features:
+ 
+ + Screen rotation
+ + Screen can be enlarged with SCALE option (before it was only shrunk)
+ + Lightgun emulation (touchscreen devices and with mouse on J2SE version)
+ + SRAM is saved (Phantasy Star etc.)
+ + NTSC/PAL selection
+ + J2SE: Pass window size as command line parameter
+ + Uses less memory than previous version
+
+ Improved Emulation Accuracy:
+ 
+ + Z80: Fixed bug in FDCBxxyy, DDCBxxyy opcode timings
+ + VDP: Fixed VDPbuffer bugs in accurate version (not used by any games)
+ + VDP: Accurate mirroring of ports (not used by any games) 
+ + VDP: Fixed bug in line interrupt setting
+ + Fixed bug in GameGear auto resizing code
+
+
+------------------------------------------------------------------------------
+v 0.91 - 18th March 2007
+------------------------------------------------------------------------------
+
+ + Speed improvement
+
+
+------------------------------------------------------------------------------
+v 0.9 - 12th March 2007
+------------------------------------------------------------------------------
+
+ + First Release

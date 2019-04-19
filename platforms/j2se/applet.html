@@ -1,0 +1,52 @@
+<html>
+ 
+<head>
+  <!-- Make sure applet always takes focus -->
+  <script type="text/javascript">
+  	onload = function()
+  	{
+  		document.getElementsByTagName( "applet" )[0].focus();
+  	}
+  </script>
+</head>
+ 
+<body> 
+
+  <!-- 
+  
+    Setting up JavaGear as an applet is simple, just edit the parameters below and copy
+    the relevant html into your webpage.
+  
+    1/ rom
+    
+    You can either pass a filename in here, e.g. rom="sonic.sms"
+    Or use the RomTool to package a ROM inside the JAR file, and delete this parameter.
+    The rom should be in the same directory as the JAR file.
+  
+  
+    2/ width and height
+  
+    The original SMS is 256x192, and you'll get the best results by scaling this value:
+  
+       512x384 = 2x original screen size
+       640x480 = 2.5 original screen size
+       768x576 = 3x original screen size
+       
+       
+    3/ video
+    
+    Some roms need particular video emulation.
+    
+    ntsc = NTSC video emulation
+    pal  = PAL video emulation
+    
+  -->
+  
+  <applet code="JavaGearApplet.class" rom="" width=640 height=480 video="ntsc">
+    <param name=archive value="@FILENAME@">
+    alt="Your browser understands the &lt;APPLET&gt; tag but isn't running the applet, for some reason."
+    Your browser is completely ignoring the &lt;APPLET&gt; tag!
+  </applet>
+</body>
+  
+</html>

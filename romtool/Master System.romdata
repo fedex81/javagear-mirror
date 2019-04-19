@@ -1,0 +1,1360 @@
+!Master System/Mark III
+!.sms
+
+F0F35C22	 	20 em 1 (BR)
+241F2707	D	20 in 1 menu [beta]	SMS newbie
+A581402E	D	64-Color Palette Test Program	Charles MacDonald
+6D165047	D	64-Color Palette Test Program [beta]	Charles MacDonald
+887D9F6B	 	Ace of Aces
+3658F3E0	 	Action Fighter
+5B3920CB	F	Action Fighter (f)	F
+D91B340D	 	Action Fighter (JP)
+72420F38	 	Addams Family, The
+ECF491CF	 	Aerial Assault
+1C951F8E	 	After Burner
+FC79B585	B	After Burner (eight bad bytes)	2FFC1=FF&2FFC3=FF&2FFC5=FF&2FFC7=FF&7CD41=FF&7CD43=FF&7CD45=FF&7CD47=FF
+4D0F5E0C	F	After Burner (f)	F
+978C2927	F	After Burner (h) [A]	H512
+99A33506	F	After Burner (h) [B]	H512
+8B43D21D	 	Air Rescue
+7337ABB7	V	Air Rescue (bad dump) (PT)	Translation patch applied to bad dump
+8B4CA9E4	V	Air Rescue (bad dump) [A]	Very bad
+0CBB8A37	V	Air Rescue (bad dump) [B]	Very bad
+7338D04E	T	Air Rescue (PT)	Emutrans
+C8718D40	 	Aladdin (Disney's)
+615D8D35	T	Aladdin (Disney's) (FR)	Generation IX
+D8C4165B	 	Aleste (JP)
+90118E13	F	Aleste (JP) (h)	H512
+013C0A94	 	Alex Kidd - High Tech World
+29220201	T	Alex Kidd - High Tech World (DE)	Star-Trans; v1.00
+C13896D5	 	Alex Kidd - The Lost Stars
+2210F389	V	Alex Kidd - The Lost Stars (bad dump)	Very bad
+17A40E29	 	Alex Kidd in Miracle World [v0] (US)
+4213FA16	T	Alex Kidd in Miracle World [v0] (IT)
+A29995A7	T	Alex Kidd in Miracle World [v0] (FR)	Terminus Traduction; v1.0
+AED9AAC4	 	Alex Kidd in Miracle World [v1]
+79D872EC	O	Alex Kidd in Miracle World [v1] (32 bytes overdump)	20000
+84286131	O	Alex Kidd in Miracle World [v1] (2x overdump)	20000
+8DAA79B7	O	Alex Kidd in Miracle World [v1] (2x overdump) (BR) [A]	20000
+90380A4B	F	Alex Kidd in Miracle World [v1] (2x overdump) (BR) [A] (h)	H512
+31E00B51	O	Alex Kidd in Miracle World [v1] (2x overdump) (BR) [C]	20000
+2C7278AD	F	Alex Kidd in Miracle World [v1] (2x overdump) (BR) [C] (h)	H512
+F8144914	F	Alex Kidd in Miracle World [v1] (2x overdump) (f)	F
+1C70B1B2	O	Alex Kidd in Miracle World [v1] (2x overdump) (FR)	20000
+99BA12CD	F	Alex Kidd in Miracle World [v1] (2x overdump) (h)	H512
+01E2C24E	F	Alex Kidd in Miracle World [v1] (2x overdump) (h) (FR)	H512
+9F10E7F8	V	Alex Kidd in Miracle World [v1] (bad - first 193K missing)
+BA8AF0A7	V	Alex Kidd in Miracle World [v1] (BR) (corrupted & incomplete)
+61273F35	T	Alex Kidd in Miracle World [v1] (BR) [A]	CBT
+8938B5C8	T	Alex Kidd in Miracle World [v1] (BR) [B]	CBT
+D7D01766	T	Alex Kidd in Miracle World [v1] (BR) [C]	CBT
+7545D7C2	T	Alex Kidd in Miracle World [v1] (BR) [D]	Emuroms
+B33817AE	T	Alex Kidd in Miracle World [v1] (FR) [A]	Floflo
+944BED08	T	Alex Kidd in Miracle World [v1] (FR) [B]
+1BE4314A	T	Alex Kidd in Miracle World [v1] (FR) [C]	Terminus Traduction; v1.0
+5BCD77ED	T	Alex Kidd in Miracle World [v1] (IT)
+2C08872B	H	Alex Kidd in Miracle World [Playpal hack]	Alex Kidd in Miracle World [v1]; hacked to make it compatible with the PlayPal/Coleco hardware
+CF4A09EA	I	Alex Kidd in Miracle World [BIOS]
+5C4CA816	H	Alex Kidd in Miracle World [BIOS] [Game hack]	Alex Kidd in Miracle World [BIOS]; hacked to skip the BIOS checks and boot to the game
+9C5BAD91	I	Alex Kidd in Miracle World [BIOS] (KR)
+08C9EC91	 	Alex Kidd no Miracle World (JP)
+D2417ED7	 	Alex Kidd in Shinobi World
+2CD7DEC7	B	Alex Kidd in Shinobi World (bad byte)	3EC65=FF
+99B590D5	B	Alex Kidd in Shinobi World (four bad bytes)	237C1=FF&23AA1=FF&378A1=FF&37941=FF
+587E41D5	T	Alex Kidd in Shinobi World (FR)	Terminus Traduction; v1.00
+82038AD4	 	Alf	US, BR
+B618B144	 	Alien 3
+7F30F793	 	Alien Storm
+62A2846F	F	Alien Storm (h) [A]	H512
+BFF6E8FE	F	Alien Storm (h) [B]	H512
+5CBFE997	 	Alien Syndrome
+4CC11DF9	 	Alien Syndrome (JP)
+412D9A6B	F	Alien Syndrome (h) [A]	H512
+E558A867	F	Alien Syndrome (h) [B]	H512
+A6ECB30D	F	Alien Syndrome (h) [C]	H512
+BBA2FE98	 	Altered Beast
+A6308D64	F	Altered Beast (h) [A]	H512
+F327D0A5	F	Altered Beast (h) [B]	H512
+B093CBCF	F	Altered Beast (h) [C]	H512
+1AE2A97D	H	Altered Beast [Playpal hack]	Altered Beast; Hacked to make it compatible with the PlayPal/Coleco hardware
+7B27202F	 	American Baseball
+3727D8B2	 	American Pro Football
+F499034D	 	Andre Agassi Tennis
+009F8630	T	Andre Agassi Tennis (BR)	Guto of www.emubrazil.tk
+FFF63B0B	 	Anmitsu Hime (JP)
+CA270F40	D	AntiISDA Warrior [v1.00]	Ventzislav Tzvetkov - http://drhirudo.hit.bg
+7408EF2F	D	AntiISDA Warrior [v1.01]	Ventzislav Tzvetkov - http://drhirudo.hit.bg
+B3E5986E	D	AntiISDA Warrior [v1.02]	Ventzislav Tzvetkov - http://drhirudo.hit.bg
+6E387C78	D	aPLib test [v1.0, data]	Maxim
+5A1C00CB	D	aPLib test [v1.0, whole file]	Maxim
+107E0607	D	aPLib test [v1.1, data]	Maxim
+CBDFFA42	D	aPLib test [v1.1, whole file]	Maxim
+2F5BC9C4	D	aPLib test [v1.1, VRAM]	Maxim
+E4163163	 	Arcade Smash Hits
+BAE75805	 	Argos no Juujiken (JP)
+32DA4B0D	H	Argos no Juujiken (JP) [Hack]	Argos no Juujiken (JP); Pirate hack removing copyright screens
+F4B3A7BD	 	Ariel - The Little Mermaid (BR)
+66C125F1	D	Artillery Master 8k	Haroldo O. Pinheiro; v0.9
+AE705699	 	Ashura (JP)
+0BD8DA96	 	Assault City
+861B6E79	 	Assault City [Light Phaser]
+147E02FA	 	Asterix [v0]
+8C9D5BE8	 	Asterix [v1]
+F9B7D26B	 	Asterix and the Great Rescue
+DEF9B14E	 	Asterix and the Secret Mission
+C795182D	 	Astro Flash (JP)
+0E21E6CF	H	Astro Flash (JP) [Hack]	Astro Flash (JP)
+299CBB74	 	Astro Warrior
+BBE02270	B	Astro Warrior (12 bad bytes)	CB83=FF&CB89=FF&CB94=FF&CB95=FF&CBB4=FF&CBCC=FF&CBE1=FF&CBED=FF&D676=F7&D711=FD&E71F=FF&14B32=FF
+FE8E978B	O	Astro Warrior (12 bad bytes) (2x overdump)	20000
+E31CE477	F	Astro Warrior (12 bad bytes) (2x overdump) (h)	H512
+4184E4C4	O	Astro Warrior (13 bad bytes) (2x overdump)	20000
+F6617CBD	B	Astro Warrior (13 bad bytes)	71DA=B1&CB83=FF&CB89=FF&CB94=FF&CB95=FF&CBB4=FF&CBCC=FF&CBE1=FF&CBED=FF&D676=F7&D711=FD&E71F=FF&14B32=FF
+9EF590F5	H	Astro Warrior [Playpal hack]	Astro Warrior; hacked to make it compatible with the PlayPal/Coleco hardware
+69EFD483	 	Astro Warrior & Pit Pot
+D7C7FF54	O	Astro Warrior & Pit Pot (2x overdump)	20000
+CA558CA8	F	Astro Warrior & Pit Pot (2x overdump) (h)	H512
+F9BB9125	B	Astro Warrior & Pit Pot (bad byte)	1DA0E=02
+6A9EAEF7	O	Astro Warrior & Pit Pot (bad byte) (2x overdump)	20000
+F922D39A	F	Astro Warrior & Pit Pot (h)	H512
+FF614EB3	 	Aztec Adventure
+884A18B9	O	Aztec Adventure (2x overdump)	20000
+95D86B45	F	Aztec Adventure (2x overdump) (h) [A]	H512
+9EFC7A9F	F	Aztec Adventure (2x overdump) (h) [B]	H512
+DD4861F5	F	Aztec Adventure (2x overdump) (h) [C]	H512
+E5FF50D8	 	Back to the Future Part II
+2D48C1D3	 	Back to the Future Part III
+35D84DC2	 	Baku Baku Animal (BR)
+655FB1F4	 	Bank Panic
+B7834C0F	F	Bank Panic (f)	F
+0D3D510B	F	Bank Panic (h)	H512
+B4DFB825	B	Bank Panic (2 bad bytes)	7FFE=00&7FFF=4C
+D1CC08EE	 	Bart vs. The Space Mutants (The Simpsons)
+D110FF6C	B	Bart vs. The Space Mutants (The Simpsons) (bad byte)	10F41=02
+F6B2370A	 	Bart vs. The World (The Simpsons)
+0DF8597F	 	Basketball Nightmare
+7163231C	B	Basketball Nightmare (four bad bytes)	E8F8=DB&E8FA=DB&E8FC=FE&E8FE=7F
+CF97932D	F	Basketball Nightmare (h) (f)	H128
+398CF40B	O	Basketball Nightmare (f)	40000
+B154EC38	 	Batman Returns
+C19430CE	 	Battle Out Run
+1CBB7BF1	 	Battlemaniacs (BR)
+B672AE7A	H	Berlin no Kabe - The Berlin Wall (JP) [GG2SMS] [v1.00]	Game Gear Berlin no Kabe - The Berlin Wall (JP) by Chris Covell; v1.00
+DC477A0D	H	Berlin no Kabe - The Berlin Wall (JP) [GG2SMS] [v1.10]	Game Gear Berlin no Kabe - The Berlin Wall (JP) by Chris Covell; v1.10
+3396BF81	D	Birthday Card	Heliophobe; made for Zoop (Bock)'s birthday in 2000
+7FF66596	D	Birthday Card (bugfix)	Heliophobe; made for Zoop (Bock)'s birthday in 2000; bugfix for less flickering
+DA3A2F57	 	Black Belt
+9FA3B61A	O	Black Belt (2x overdump)	20000
+8D39B5E7	F	Black Belt (2x overdump) (h) [A]	H512
+8231C5E6	F	Black Belt (2x overdump) (h) [B]	H512
+CE8DAE8D	F	Black Belt (2x overdump) (h) [C]	H512
+8ECD201C	 	Blade Eagle 3-D
+FBF96C81	T	Blade Eagle 3-D (BR)
+2734A9B4	D	blockhead	proppy & tet; v1.00
+6994770D	D	blockhead [beta 1]	proppy & tet; v1.00 14/7/2004
+79A1D911	D	blockhead [beta 2]	proppy & tet; v1.00 26/9/2004
+F9DBB533	 	BMX Trial - Alex Kidd (JP)
+1D43A351	D	Bock's Birthday 2002	Maxim
+C07CB738	D	Bock's Birthday 2003	Maxim
+31A5CA6A	D	Bock's Birthday 2004	Maxim
+F0F53C64	D	Bock's Birthday 2006	Charles MacDonald
+B80A74A1	D	Bock's Birthday 2007	Maxim
+EA0F2691	E	Bomb Jack (change extension to sg)	sg
+3084CF11	 	Bomber Raid
+09D39A66	F	Bomber Raid (f)	F
+8A3ED944	B	Bomber Raid (two bad bytes)	15345=FF&15347=FF
+D3223DD4	T	Bomber Raid (FR)	Terminus Traduction; v1.00
+CAEA8002	 	Bonanza Bros.
+D778F3FE	F	Bonanza Bros. (h)	H512
+B3768A7A	 	Bonkers Wax Up! (BR)
+0B4BCA74	E	Border Line (change extension to sg)	sg
+1B10A951	 	Bram Stoker's Dracula
+47C05B0C	T	Bram Stoker's Dracula (BR)	Ninho of Tran-center Traducoes
+E843BA7E	 	Bubble Bobble
+F7294EE1	T	Bubble Bobble (FR)
+B0FC4577	 	Buggy Run
+AC6009A7	 	California Games
+7735AD99	F	California Games (f)	F
+13D49D42	B	California Games (93 bad bytes)	7A3=B7&3C6F=F7&3CD3=EF&403F=77&5A8F=FC&BB1F=FE&C02F=5F&C846=EE&C972=3F&CB67=5F&D36F=1F&D43E=DF&E336=FB&153AB=97&165E7=FB&18AB3=0F&18B37=1B&1AB96=AF&1E47F=DF&1E822=3F&1E8D7=FC&1E98A=3F&1EA4E=3F&1EA8E=3F&1EAE7=FE&1F07F=0F&1F193=FD&1F1FB=FC&1F22E=3F&1F2D6=3F&1F3A3=CF&1F3BA=3F&1F5FA=DF&1F656=3F&1F682=1F&1F69A=3F&1F78E=3F&1F7E2=1F&1F8B6=3F&1F922=1F&1F936=6F&1F94A=3F&1F95E=1F&1F97E=3F&1F9F2=3F&1FA5E=1F&27C1E=3F&27CF2=3F&27E46=1F&27EF6=3F&27F97=FC&2D522=9F&2D91F=DF&2D973=5F&2D97F=7D&2D9A3=57&2D9DF=EF&2DA0F=EF&2DA1B=F7&2DAFA=F7&2F3E6=3F&2F45A=1F&2F50E=F1&2F69E=3F&2F9C3=E7&2FBAB=DF&2FBEB=FC&2FC6E=BF&2FCCE=F8&2FD16=FD&2FE66=3F&30107=FD&3011F=DF&30197=BF&301A3=57&301AF=75&3021B=F7&351FA=3F&357F6=DF&35A22=EF&35E9F=DF&35ECF=DE&35F23=57&3622F=3F&36253=77&36283=FA&3C74B=F7&3DCC2=DE&3F846=1F&3F90A=3F&3F91E=3F&3FC8E=3F&3FEEF=FE
+B3B5D047	T	California Games (BR)
+C0E25D62	 	California Games II
+5F5D13AF	B	California Games II (bad byte)	33C0E=01
+EEAD16C7	D	Canyon Racer	Haroldo O. Pinheiro; v0.01 alpha
+A4852757	 	Captain Silver
+74DC9B53	F	Captain Silver (f)	F
+87BF8A47	B	Captain Silver (bad byte)	3164B=FE
+B81F6FA5	 	Captain Silver (US)
+3CFF6E80	 	Casino Games
+E239ED95	B	Casino Games (45 bad bytes)	9E4D=40&9E54=40&9E55=40&A222=0B&A223=00&A231=00&A3A8=00&A3A9=00&DB61=F0&DB96=02&E3B6=08&E3B7=00&10C3B=FF&10C3D=FF&10C3F=FF&145EC=5C&145F5=F8&149C3=04&14A06=06&14A91=C8&14ABE=88&14B49=02&14B76=10&14BBF=03&14BC6=F0&14BCE=10&14C01=68&14C44=08&153A9=8A&153DE=00&172D0=FF&172D1=FF&1CC20=7F&1CC57=21&1D388=20&1D3C6=83&1D3C7=FC&1DB10=BF&1DB57=BE&1EBAE=2F&1EBB6=D0&1EC66=FF&1EC6E=FF&1EE35=16&1EE3D=5E
+F964F356	B	Casino Games (bad byte)	1BC0E=01
+31FFD7C3	 	Castelo Ra-Tim-Bum (BR)
+DCD38617	B	Castelo Ra-Tim-Bum (BR) (four bad bytes)	4BCC1=FF&4BCC3=FF&4BCC5=FF&4BCC7=FF
+953F42E1	 	Castle of Illusion - Starring Mickey Mouse
+948AC90A	F	Castle of Illusion - Starring Mickey Mouse (f)	F
+6203EFBB	V	Castle of Illusion - Starring Mickey Mouse (bad dump)
+B9DB4282	 	Castle of Illusion - Starring Mickey Mouse (US)
+65DCB9AD	V	Castle of Illusion - Starring Mickey Mouse (US) (bad - 64KB missing)
+56A3AEFC	T	Castle of Illusion - Starring Mickey Mouse (IT)	Darq; v1.00
+21A5434F	T	Castle of Illusion - Starring Mickey Mouse (FR) [A]	Terminus Traduction; v1.0; patched US version
+0D41432C	T	Castle of Illusion - Starring Mickey Mouse (FR) [B]	Terminus Traduction; v1.0; patched non-US version
+59840FD6	 	Castle of Illusion - Starring Mickey Mouse [SMS-GG]
+9942B69B	 	Castle of Illusion - Starring Mickey Mouse [SMS-GG] (JP)
+5877B10D	H	Castle of Illusion - Starring Mickey Mouse [SMS-GG] (JP) [Hack]	Castle of Illusion [GG] (JP) giving joypad pause access
+45E5C2F1	F	Castle of Illusion - Starring Mickey Mouse [SMS-GG] (JP) (h)	H512
+D37BDA49	E	Chack'n Pop (change extension to sg)	sg
+5970A12B	E	Champion Baseball (change extension to sg)	sg
+62B21E31	E	Champion Billiards (change extension to sg)	sg
+868419B5	E	Champion Golf (change extension to sg)	sg
+372FE6BC	E	Champion Pro Wrestling (change extension to sg)	sg
+23163A12	 	Champions of Europe
+7E5839A0	 	Championship Hockey
+11DB4B1D	E	Championship Lode Runner [B] (change extension to sg)	sg
+492C7C6E	 	Chapolim x Dracula - Um Duelo Assustador (BR)
+5CB841DD	D	Checkstate	Dave
+46340C41	 	Cheese Cat-astrophe
+72D5ED7F	B	Cheese Cat-astrophe (bad byte)	39BDF=3A
+4BF77EC9	V	Cheese Cat-astrophe (bad - last 82KB missing)
+4A21C15F	 	Choplifter
+8C02D693	O	Choplifter (2x overdump)	20000
+9190A56F	F	Choplifter (2x overdump) (h) [A]	H512
+3F188EDD	F	Choplifter (2x overdump) (h) [B]	H512
+B9EFB89C	B	Choplifter (bad byte)	B523=C0
+30F2C7B6	O	Choplifter (bad byte) (2x overdump)	20000
+2D60B44A	F	Choplifter (bad byte) (2x overdump) (h)	H512
+C96FCD19	V	Choplifter (bad dump)
+75EB037D	O	Choplifter (bad dump) (2x overdump)	20000
+E2BFF636	B	Choplifter (two bad bytes)	C7=C0&20C7=01
+DEBB2E3A	O	Choplifter (two bad bytes) (2x overdump)	20000
+72D90B7C	B	Choplifter (47 bad bytes)	B=1F&3373=B7&3F0F=FD&43DB=FD&4463=FD&45EF=FD&4663=FD&4757=FD&54AF=FD&6D7B=7D&7F72=3F&7F82=FB&96A3=FA&9FE3=FE&E2B7=FD&E30B=FD&FC8E=FB&10A2F=E7&10ADF=75&11687=9F&116CE=E6&117DF=1F&11AAB=7E&120FB=7E&122B6=EF&122CE=F7&13E26=3F&145BE=79&1605E=DF&165EA=3F&16746=DF&1C13B=1F&1C2B3=1F&1C41B=0F&1C4B3=1F&1C557=1E&1C60B=0F&1C60F=0F&1C613=0F&1C683=0F&1C783=0E&1C8C3=3F&1DC26=1F&1DC2F=FE&1DC56=3F&1EA93=3F&1EBD2=FB
+FD6FCFCE	O	Choplifter (47 bad bytes) (2x overdump)	20000
+E0FDBC32	F	Choplifter (47 bad bytes) (2x overdump) (h)	H512
+732B7180	E	Choplifter (change extension to sg)	sg
+16ec3575	 	Choplifter [Proto] (JP)
+E421E466	 	Chouon Senshi Borgman (JP)
+DD0E2927	 	Chuck Rock
+C30E690A	 	Chuck Rock II - Son of Chuck
+87783C04	 	Chuck Rock II - Son of Chuck (BR)
+E7F62E6D	 	Cloud Master
+13D762EB	B	Cloud Master (4 bad bytes)	3DFC1=FF&3DFC3=FF&3DFC5=FF&3DFC7=FF
+84E45C25	T	Cloud Master (FR)	Terminus Traduction; v1.0
+BFEE193C	D	Code 38 - Volume I [French/NoPSG]	L.I.N. - http://membres.lycos.fr/pin26/lin/
+79482586	I	Coleco handheld compilation
+5C19E8A5	D	Color Check	Dave
+7253C3EC	 	Color & Switch Test
+665FDA92	 	Columns
+9D549E08	 	Comical Machine Gun Joe (JP)
+DC4383CC	E	Congo Bongo (change extension to sg)	sg
+13AC9023	 	Cool Spot
+CC92058A	B	Cool Spot (bad byte)	2FC0E=00
+43600BB1	D	Copyright Violation	Heliophobe
+29822980	 	Cosmic Spacehead
+0299BDA4	D	Crappy	Memetic
+1350E4F8	 	Cyber Shinobi, The
+C576C058	T	Cyber Shinobi, The (FR)	Terminus Traduction; v1.00
+908E7524	 	Cyborg Hunter
+391B6C0E	F	Cyborg Hunter (f)	F
+903AAD36	T	Cyborg Hunter (BR)
+BDD034EE	T	Cyborg Hunter (IT)
+0F2E4F1E	T	Cyborg Hunter (FR)	Terminus Traduction; v1.00
+7694ED1C	D	Cycle Counter	FluBBa
+71ABEF27	 	Daffy Duck in Hollywood
+FCEFD481	D	Damiana (v1)	Heliophobe; Y2Kode entry; accidentally has a very short level
+97F8DCC8	D	Damiana (v2)	Heliophobe; Y2Kode entry; v1 accidentally had a very short level
+AE4A28D7	 	Danan - The Jungle Fighter
+7CC2A20B	D	DCEvolution.net Intro	drHirudo/Void
+E2F7193E	 	Dead Angle
+5EF8DBDA	B	Dead Angle (four bad bytes)	168C4=7F&168C6=00&168C8=07&168CA=00
+42FC3A6E	 	Deep Duck Trouble - Starring Donald Duck
+B137007A	 	Desert Speedtrap - Starring Road Runner and Wile E. Coyote
+6C1433F9	 	Desert Strike
+DF8C8F76	B	Desert Strike (60 bad bytes)	84=FC&85=FF&86=5E&87=3E&88=28&89=32&8A=FC&8B=FF&8C=C9&8D=3A&8E=FB&8F=FF&90=32&91=FC&92=FF&93=73&94=3E&95=28&96=32&97=FC&98=FF&99=C9&9A=32&9B=FD&9C=FF&9D=3A&9E=FB&9F=FF&A0=32&A1=FC&A2=FF&A3=3A&A4=FD&A5=FF&A6=CD&A7=9D&A8=DB&A9=00&AA=32&AB=FD&AC=FF&AD=3A&AE=FC&AF=FF&B0=32&B1=FB&B2=FF&B3=3E&B4=28&B5=32&B6=FC&B7=FF&B8=3A&B9=FD&BA=FF&BB=C3&BC=3F&BD=80&BE=00&BF=00
+82EFDA3C	B	Desert Strike (bad byte)	63111=FE
+25DB174F	E	Devilish (JP) (change extension to gg)	gg
+F6FAB48D	 	Dick Tracy
+D1341667	D	Digger Ball	Aypok & PlayGeneration; SMS Power Sega 8-bit Coding Competition 2007 entry
+8F03B610	D	Digger Ball [no explosions]	Aypok & PlayGeneration; hardware compatibility version; SMS Power Sega 8-bit Coding Competition 2007 entry
+C4CA6878	D	Digger Chan	Aypok; SMS Power Sega 8-bit Coding Competition 2006 entry
+EA5C3A6F	 	Dinobasher - Starring Bignose the Caveman [Proto]
+32F4B791	 	Dinosaur Dooley, The (KR)
+DFA805A0	E	Dodge Ball (JP) (change extension to gg)	gg
+89B79E77	 	Dodgeball King (KR)
+A672D27C	O	Dodgeball King (KR) (80KB overdump)	6C000
+AC7F95B4	E	Doki Doki Penguin Land (bad dump) (change extension to sg)	sg
+346556B9	E	Doki Doki Penguin Land (change extension to sg)	sg
+A55D89F3	 	Double Dragon
+B8CFFA0F	F	Double Dragon (h) [A]	H512
+3010152A	F	Double Dragon (h) [B]	H512
+6CC2E967	F	Double Dragon (h) (f) [A]	H640
+C154F62C	F	Double Dragon (h) (f) [B]	H128
+F85961EC	O	Double Dragon (f)	40000
+E730BB27	B	Double Dragon (bad byte)	22A25=FE
+FAA2C8DB	F	Double Dragon (bad byte) (h)	H512
+3B79D63E	V	Double Dragon (bad dump)	Blank areas
+8370F6CD	 	Double Hawk
+52D9EAF1	B	Double Hawk (eight bad bytes)	FD01=FF&FD03=FF&FD05=FF&FD07=FF&FDC1=FF&FDC3=FF&FDC5=FF&FDC7=FF
+52B83072	 	Double Target - Cynthia no Nemuri (JP)
+16537865	 	Dr. HELLO (KR)
+6C696221	 	Dr. Robotnik's Mean Bean Machine
+C88A5064	 	Dragon - The Bruce Lee Story
+9549FCE4	 	Dragon Crystal
+DDDB3DD8	D	Draw Poker	Mike Beaver; SMS Power Sega 8-bit Coding Competition 2006 entry
+2E31ACD2	D	Driar 0.05	Essen Mumps Productions (fx^ & Ejdolf) 2003
+288940CB	E	Drol (change extension to sg)	sg
+07306947	 	Dynamite Duke
+9721F54D	F	Dynamite Duke (f)	F
+2BB5F2CD	B	Dynamite Duke (four bad bytes)	3F661=FF&3F663=FF&3F665=FF&3F667=FF
+0E1CC1E0	 	Dynamite Dux
+7DB5B0FA	 	Dynamite Headdy (BR)
+C4D5EFC5	 	Earthworm Jim (BR)
+7C28703A	 	Ecco - The Tides of Time (BR)
+6687FAB9	 	Ecco the Dolphin
+5AF8F69D	E	Elevator Action (change extension to sg)	sg
+D3639E45	D	Elite Gaiden 0.1	Ricardo Bittencourt
+87AB46F8	D	Elite Gaiden 0.1.8	Ricardo Bittencourt
+00E73541	 	Enduro Racer
+27FF9BEB	F	Enduro Racer (f)	F
+1FE4E74D	T	Enduro Racer (BR)
+DFA2AE07	V	Enduro Racer (corrupted)	Insert hex byte $0D at offset $B3A1 to fix
+5D5C50B3	 	Enduro Racer (JP)
+C4BB1676	 	E-SWAT [A]	V0
+C10FCE39	 	E-SWAT [B]	V0 - but very different to [A]
+8813514B	 	Excellent Dizzy Collection, The [Proto]
+AA140C9C	 	Excellent Dizzy Collection, The [SMS-GG]
+A2C45B61	E	Exerion (change extension to sg)	sg
+EC788661	 	F1
+8AB10CB4	V	F1 (first 128KB only)
+EAEBF323	 	F-16 Fighter
+7CE06FCE	 	F-16 Fighting Falcon (JP)
+184C23B7	 	F-16 Fighting Falcon (US)
+7ABC70E9	 	Family Games (Party Games) (JP)
+B9664AE1	 	Fantastic Dizzy
+711E2CF9	B	Fantastic Dizzy (two bad bytes)	3DA00=0B&3DA02=80
+C888222B	 	Fantastic Dizzy [SMS-GG]
+65D7E4E0	 	Fantasy Zone
+82A38EF8	O	Fantasy Zone (2x overdump)	20000
+9F31FD04	F	Fantasy Zone (2x overdump) (h) [A]	H512
+C555260D	F	Fantasy Zone (2x overdump) (h) [B]	H512
+B6523C5B	H	Fantasy Zone [Playpal hack]	Fantasy Zone; hacked to make it compatible with the PlayPal/Coleco hardware
+0FFBCAA3	 	Fantasy Zone [v0] (JP)
+F46264FE	 	Fantasy Zone [v1] [Proto]
+B8B141F9	 	Fantasy Zone II
+A5233205	F	Fantasy Zone II (h) [A]	H512
+1C89CE6A	F	Fantasy Zone II (h) [B]	H512
+F7EAF75A	B	Fantasy Zone II (bad byte)	1F5DA=B6
+C722FB42	 	Fantasy Zone II (JP)
+D29889AD	 	Fantasy Zone - The Maze
+483394F9	O	Fantasy Zone - The Maze (2x overdump)	20000
+55A1E705	F	Fantasy Zone - The Maze (2x overdump) (h)	H512
+BE8A3D4C	H	Fantasy Zone - The Maze [Playpal hack]	Fantasy Zone - The Maze; hacked to make it compatible with the PlayPal/Coleco hardware
+CCB2CAB4	H	Felipe em Acao	Teddy Boy
+BF6C2E37	 	Ferias Frustradas do Pica Pau (BR)
+9BB3B5F9	 	FIFA International Soccer (BR)
+3EBB7457	 	Final Bubble Bobble (JP)
+86D6384E	T	Final Bubble Bobble (ES)	PKT
+F6AD7B1D	 	Fire & Forget II
+8B24A640	 	Fire & Ice (BR)
+BE31D63F	 	Flash, The
+D4C8C6D7	E	Flicky (3 bad bytes) (change extension to sg)	sg
+BD24D27B	E	Flicky (change extension to sg)	sg
+CA5C78A5	 	Flintstones, The
+38C53916	 	Forgotten Worlds
+69E612D2	D	Frog demo [beta 1]	Eric Shen
+AA0D0D60	D	Frog demo [beta 2]	Eric Shen
+4CA2FE11	D	Frog demo (auto move)	Eric Shen
+05B0F15B	D	Frog demo (key)	Eric Shen
+F5D98348	H	Frogger [Proto] [GG2SMS] [v0.90]	Game Gear Frogger [Proto] by Chris Covell; v0.90
+444ABB05	H	Frogger [Proto] [GG2SMS] [v0.92]	Game Gear Frogger [Proto] by Chris Covell; v0.92
+A95013D3	D	Fri For Fransk! [v1.02]	Marc Klemp; v1.02 22/5/03
+8CBCAB0F	D	Fri For Fransk! [v1.02a]	Marc Klemp; v1.02 15/12/05
+DDA01774	E	FudeBrowser - BRMSX (change extension to sg)	sg
+4A696389	E	FudeBrowser - BRSMS (change extension to sg)	sg
+DE6CC6E6	E	FudeBrowser - ExpoSALT logo (change extension to sg)	sg
+C9A6217A	E	FudeBrowser - How do they do that with HTML (change extension to sg)	sg
+4F95660E	E	FudeBrowser - Jiraiya (change extension to sg)	sg
+2AEF0693	E	FudeBrowser - Never (change extension to sg)	sg
+0F8A5A2A	E	FudeBrowser - Newo (change extension to sg)	sg
+BD8F3126	E	FudeBrowser - SG-1000 & SC-3000 Information Database (change extension to sg)	Sg
+16695BA9	E	FudeBrowser - Shurato (change extension to sg)	Sg
+280876DC	E	Fudebrowser - SkyBaby's SMSList (change extension to sg)	Sg
+C2FEE1E4	E	FudeBrowser - Winnie Cooper [1 picture] (change extension to sg)	Sg
+5D9AA9A7	E	FudeBrowser - Winnie Cooper [3 pictures] (change extension to sg)	Sg
+27B87FAD	D	Fullscreen Palette Test Program	Charles MacDonald
+E6795C53	 	Fushigi no Oshiro Pit Pot (JP)
+5D08E823	H	Fushigi no Oshiro Pit Pot (JP) [Hack]	Fushigi no Oshiro Pit Pot (JP)
+8B40F6BF	 	Gaegujangi Ggachi (KR)
+3EC5E627	 	Gain Ground
+A6FA42D0	 	Galactic Protector (JP)
+A4AC35D8	 	Galaxy Force
+6C827520	 	Galaxy Force (US)
+2DD930F8	V	Galaxy Force (US) (first 128KB only)
+1820C8AC	B	Galaxy Force (US) (7 bad bytes)	603F8=FF&603FA=00&603FB=00&603FC=FF&603FD=00&603FE=00&603FF=00
+1890F407	 	Game Box Serie Esportes Radicais (BR)
+5F643283	 	Game Box Serie Esportes (BR)	3 roms merged, only the first is playable
+88829996	E	Game Gear High Resolution Graphics Demo (change extension to gg)	gg
+5FC74D2A	 	Gangster Town
+94483815	F	Gangster Town (f)	F
+D9190956	 	Gauntlet
+3E5A03F3	F	Gauntlet (f)	F
+AF2ABB95	B	Gauntlet (bad byte)	72F5=FE
+0E300223	E	Gear Stadium (JP) (change extension to gg)	Gg
+A64898CE	 	George Foreman's KO Boxing
+956C416B	 	Geraldinho (BR)
+E8AE1C44	E	GG Shinobi (bad dump) (change extension to gg)	Gg
+C3E7C1ED	 	Ghost House [Proto]
+F1F8FF2D	 	Ghost House
+D3E6EAA6	O	Ghost House (2x overdump)	8000
+3A020F2B	O	Ghost House (4x overdump)	8000
+EEDD93FA	O	Ghost House (8x overdump) [A]	8000
+F34FE006	F	Ghost House (8x overdump) [A] (h) [A]	H512
+9D6ECF1A	F	Ghost House (8x overdump) [A] (h) [B]	H512
+7C2E6C5A	O	Ghost House (8x overdump) [B]	8000
+61BC1FA6	F	Ghost House (8x overdump) [B] (h)	H512
+9B5C0CA8	B	Ghost House (bad byte)	71DA=02
+51D7E0B5	O	Ghost House (bad byte) (8x overdump)	8000
+9A1ECFEC	T	Ghost House (BR)	Leo
+C0F3CE7E	 	Ghost House (JP)
+DABCC054	H	Ghost House (JP) [Hack]	Ghost House (JP)
+1DDC3059	 	Ghostbusters
+03DE06AB	F	Ghostbusters (f)	F
+7A92EBA6	 	Ghouls'n Ghosts
+6700985A	F	Ghouls'n Ghosts (h) [A]	H512
+D0A1EE1D	F	Ghouls'n Ghosts (h) [B]	H512
+DB48B5EC	T	Ghouls'n Ghosts (BR)	Guto of www.emubrazil.tk
+ABB6DE54	V	Ghouls'n Ghosts (bad - 10KB missing)
+1898F274	E	Girl's Garden (change extension to sg)	sg
+B746A6F5	 	Global Defense
+91A0FC4E	 	Global Defense [Proto]
+68646B7B	O	Global Defense (2x overdump)	20000
+75F61887	F	Global Defense (2x overdump) (h)	H512
+87E45583	V	Global Defense (54KB mising)
+B89CC547	H	Global Defense [Playpal hack]	Global Defense; hacked to make it compatible with the PlayPal/Coleco hardware
+B67CEB76	 	Global Gladiators
+8DAE576E	O	Global Gladiators (2x overdump)	40000
+619FDE2C	B	Global Gladiators (bad byte) [A]	124E=05
+811B8FC0	B	Global Gladiators (bad byte) [B]	11B61=54
+87475035	O	Global Gladiators (bad byte) [B] (2x overdump)	40000
+05CDC24E	 	G-LOC - Air Battle
+6F0C1685	H	Goku	Cloud Master
+A249FA9D	 	Gokuaku Doumei Dump Matsumoto (JP)
+C08132FB	 	Golden Axe
+4B980452	F	Golden Axe (h)	H512
+2ECCFA32	F	Golden Axe (f)	F
+47F4CF47	B	Golden Axe (bad byte)	71281=00
+CCEDF9EE	F	Golden Axe (bad byte) (h)	H512
+1EEC7ABC	B	Golden Axe (two bad bytes)	28951=DF&3457D=DF
+95F54C15	F	Golden Axe (two bad bytes) (h)	H512
+C7DED988	 	Golden Axe Warrior
+88FAD145	F	Golden Axe Warrior (f)	F
+68F58DF7	T	Golden Axe Warrior (BR) [A]	Emuboarding
+8872F23F	T	Golden Axe Warrior (BR) [B]	ALVS
+F424AD15	T	Golden Axe Warrior (BR) [C]
+21DB20AE	T	Golden Axe Warrior (DE)	Trans-Nation; v0.82
+472D1CE4	T	Golden Axe Warrior (FR)	Haruney
+A53677B3	T	Golden Axe Warrior (ES)	PKT
+48651325	 	Golfamania
+5DABFDC3	 	Golfamania [Proto]
+0D159ED0	E	Golgo 13 (change extension to sg)	sg
+A51376FE	 	Golvellius - Valley of Doom
+7EF6E2F6	F	Golvellius - Valley of Doom (f)	F
+00196EBA	T	Golvellius - Valley of Doom (BR)	Star-Trans
+359141EF	T	Golvellius - Valley of Doom (DE)	Star-Trans; version 1.00
+11E19FB1	T	Golvellius - Valley of Doom (FR)	Floflo
+E02FC973	D	Good Advice	Heliophobe
+EC2DA554	 	GP Rider
+191FFE0A	E	GP World (change extension to sg)	sg
+10ED6B57	 	Great Baseball
+89E98A7C	 	Great Baseball [JP] (JP)
+C1E699DB	H	Great Baseball [JP] (JP) [Hack]
+2AC001EB	 	Great Basketball
+2055825F	 	Great Football
+08A1C711	O	Great Football (2x overdump)	20000
+1533B4ED	F	Great Football (2x overdump) (h)	H512
+98E4AE4A	 	Great Golf
+1D2165A4	O	Great Golf (2x overdump)	20000
+00B31658	F	Great Golf (2x overdump) (h) [A]	H512
+92C0A30D	F	Great Golf (2x overdump) (h) [B]	H512
+9AC4B0AC	O	Great Golf (57KB overdump)	20000
+94B4E09A	F	Great Golf (57KB overdump) (h)	H512
+6586BD1F	 	Great Golf [JP] (JP)
+4847BC91	 	Great Golf [Proto] (JP)
+0CB7E21F	 	Great Ice Hockey
+946B8C4A	O	Great Ice Hockey (2x overdump)	10000
+0ED170C9	 	Great Soccer
+2D7FD7EF	 	Great Soccer (JP)
+84665648	H	Great Soccer (JP) [Hack]
+F596633D	B	Great Soccer (JP) [Hack] (bad byte)	1BD7=20
+95CBF3DD	 	Great Tennis - Super Tennis (JP)
+8D43EA95	 	Great Volleyball
+B2801B0C	B	Great Volleyball (27 bad bytes)	BFFF=FF&FFE1=00&FFE2=01&FFE3=FE&FFE5=00&FFE6=01&FFE7=FE&FFE9=00&FFEA=01&FFEB=FE&FFED=00&FFEE=01&FFEF=FE&FFF1=00&FFF2=01&FFF3=FE&FFF5=00&FFF6=01&FFF7=FE&FFF9=00&FFFB=00&FFFD=00&FFFF=00&13FFF=FF&17FFF=FF&1BFFF=FF&1FFFF=FF
+6819B0C0	 	Great Volleyball (JP)
+D87316F6	D	#gscept	blind io
+D3C52B09	H	Guerreiro Lobo	Wonder Boy 3
+15A754A3	E	Gulkave (change extension to sg)	sg
+61FA9EA0	E	Guzzler (change extension to sg)	sg
+4587DE6E	E	H.E.R.O. (change extension to sg)	sg
+B9FDF6D9	 	Haja no Fuuin (JP)
+071B045E	 	Hang On
+CF1D7990	T	Hang On (BR) [A]
+A77F996F	F	Hang On (BR) [A] (h)	H512
+303EA475	T	Hang On (BR) [B]
+585C448A	F	Hang On (BR) [B] (h)	H512
+6F79E4A1	F	Hang On (h)	H512
+5C01ADF9	 	Hang On (JP)
+8EDF7AC6	I	Hang On [BIOS]
+1C5059F0	 	Hang On & Astro Warrior (US)
+E167A561	 	Hang On & Safari Hunt
+C5083000	V	Hang On & Safari Hunt (bad dump)	Blank 16KB from 1C000 to fix
+91E93385	I	Hang On & Safari Hunt [BIOS]
+9BE3C6BD	E	Hang On 2 (change extension to sg)	sg
+BC05774F	D	Happy 10!	blind_io; SMS Power Sega 8-bit Coding Competition 2007 entry
+07C39BA4	D	Happy Looser	Zoop (Bock); Y2Kode entry
+922954C6	B	Happy Looser (7 bad bytes)	7FF9=00&7FFA=CA&7FFB=C8&7FFC=01&7FFD=50&7FFE=00&7FFF=4C
+ED169D59	D	Headbreak For A Scroller (FR)	L.I.N. - http://membres.lycos.fr/pin26/lin/
+FDAB876A	 	Heavyweight Champ
+CDE13FFB	 	Heroes of the Lance
+FFAEA37E	B	Heroes of the Lance (two bad bytes)	59BD7=50&59BDF=50
+9EB1AA4F	 	High School! Kimengumi (JP)
+6F30434B	T	High School! Kimengumi (EN) [beta]	Nick
+8A296A3E	T	High School! Kimengumi (EN)	Nick
+656D1A3E	V	Hokuto no Ken (HK) (bad dump)	Unofficial Chinese hack for a Hong Kong pirate cartridge
+24F5FE8C	 	Hokuto no Ken (JP)
+DC3B45BD	T	Hokuto no Ken (FR)	Terminus Traduction; v1.00
+C9DBF936	 	Home Alone
+9CED34A7	 	Hook [Proto]
+6C2745F7	B	Hook [Proto] (bad byte)	215E1=C6
+95256919	T	Hook [Proto] (BR)
+955A009E	 	Hoshi wo Sagashite... (JP)
+A627D440	E	Hustle Chumy (change extension to sg)	sg
+BA09A0FD	E	Hyper Sports (change extension to sg)	sg
+F352FFA8	D	Image-Music-,Works	Peder Johansen
+64D6AF3B	 	Impossible Mission
+C129903B	F	Impossible Mission (f)	F
+53450D7A	B	Impossible Mission (2 bad bytes)	14703=FE&170AB=FE
+B4584DDE	 	Incredible Crash Dummies, The
+BE9A7071	 	Incredible Hulk, The
+8AEB574B	 	Indiana Jones and the Last Crusade
+54CC8DD0	D	Interactive Sprite Test	Charles MacDonald
+191C3113	D	Interactive Sprite Test 2	Charles MacDonald
+6887900E	D	Interrupt Test	Charles MacDonald
+8D23587F	 	James Bond 007 - The Duel
+8FEFF688	 	James Bond 007 - The Duel (BR)
+2B7F7447	B	James Bond 007 - The Duel (BR) (bad byte)	3C5F1=FF
+90160849	E	James Bond 007 (change extension to sg)	Sg
+6A664405	 	James 'Buster' Douglas Knockout Boxing (US)
+102D5FEA	 	James Pond II - Codename - Robocod
+FEF68275	B	James Pond II - Codename - Robocod (bad byte)	14C0E=01
+76C5BDFB	 	Jang Pung II [SMS-GG] (KR)
+0A9089E5	 	Joe Montana Football
+45C50294	 	Jogos de Verao II (BR)
+EF2F37C9	H	Jornada do Krazy	Psycho Fox
+E05E3D2B	V	Jornada do Mymo (bad - last 108KB missing)
+BBC237C0	H	Jornada do Mymo [A]	Psycho Fox
+5D6DEC5E	H	Jornada do Mymo [B]	Psycho Fox
+16C217C9	H	Jornada do Mymo II	Psycho Fox
+695A9A15	 	Jungle Book, The
+E959E820	B	Jungle Book, The (bad byte)	29C0E=22
+DCA0C49E	T	Jungle Book, The (BR)	www.emubrazil.tk
+B7621BAD	V	Junk data 1
+EAEF28EA	V	Junk data 2
+0667ED9F	 	Jurassic Park
+7654E077	E	Kamikaze (change extension to sf7)	sf7
+516ED32E	 	Kenseiden
+4CFCA0D2	F	Kenseiden (h) [A]	H512
+041F678F	F	Kenseiden (h) [B]	H512
+4918D6C0	T	Kenseiden (BR)
+548AA53C	F	Kenseiden (BR) (h)	H512
+A28218FE	T	Kenseiden (FR)	Terminus Traduction
+BF106B02	F	Kenseiden (h) [A] (FR)	H512
+F7F3AC5F	F	Kenseiden (h) [B] (FR)	H512
+05EA5353	 	Kenseiden (JP)
+F8D33BC4	 	King's Quest - Quest for the Crown (US)
+C12A4B37	B	King's Quest - Quest for the Crown (US) (two bad bytes)	1BBD7=00&1BBDF=00
+b7fe0a9d	 	King's Quest - Quest for the Crown [Proto] (US)
+2B435FD6	 	KLAX
+ED15F21E	B	KLAX (26 bad bytes)	4DF9=47&4E3E=23&A9F0=00&AA37=00&AAA6=80&AAAF=00&AAB0=00&AAEE=00&AAEF=00&B1A1=80&B1CE=00&B1D6=00&B259=00&B286=80&B311=FF&B354=00&1A90E=7F&1A916=FF&1A9C6=0A&1A9CE=01&1AA86=FE&1AA94=80&1AAA6=FF&1AAA7=D9&1F28E=FF&1F297=FF
+BB351118	B	KLAX (bad byte)	FAE3=FE
+97B38E8A	V	KLAX (bad dump)	Blank areas
+64A585EB	 	Krusty's Fun House
+D11D32E4	 	Kujakuou (JP)
+68108314	B	Kujakuou (JP) (bad byte)	3ECC8=08
+1E949D1F	 	Kung Fu Kid
+1FBE3106	O	Kung Fu Kid (2x overdump)	20000
+3FB8FDBA	H	Kung Fu Kid [Playpal hack]	Kung Fu Kid; hacked to make it compatible with the PlayPal/Coleco hardware
+7E15A103	D	KunKun & KokoKun	Omar Cornut (BocK); SMS Power Sega 8-bit Coding Competition 2006 entry
+24E97200	 	Land of Illusion - Starring Mickey Mouse
+6BF33E83	B	Land of Illusion - Starring Mickey Mouse (bad byte)	5EBDF=40
+0CA95637	 	Laser Ghost
+DC322662	O	Laser Ghost (f)	40000
+33CF8213	F	Laser Ghost (h) (f)	H128
+6350E649	 	Legend of Illusion - Starring Mickey Mouse (BR)
+F369B2D8	 	Lemmings
+2C61ED88	 	Lemmings [Proto]
+CB09F355	 	Line of Fire
+C352C7EB	 	Lion King, The
+00ED3970	E	Lode Runner (change extension to sg)	sg
+AA7D6F45	 	Lord of Sword (JP)
+E8511B08	 	Lord of The Sword
+F5C368F4	F	Lord of The Sword (h) [A]	H512
+257B617D	F	Lord of The Sword (h) [B]	H512
+2C3FA788	V	Lord of the Sword (bad dump)
+3D87705B	F	Lord of the Sword (bad dump) (h)	H478
+F77517EB	V	Lord of the Sword (first 34 bytes missing)	SMS Checker doesn't know how to insert bytes
+323F357F	 	Loretta no Shouzou (JP)
+A1710F13	 	Lucky Dime Caper, The - Starring Donald Duck
+D79E51A8	T	Lucky Dime Caper, The - Starring Donald Duck (BR)
+7F6D0DF6	 	Lucky Dime Caper, The - Starring Donald Duck [Proto]
+56ABC493	E	Maechiko's Omikuji (change extension to sg)	sg
+B1CBEC5A	E	Maechiko's S Sniper (change extension to sg)	sg
+55C88828	H	Magali no Castelo do Dragao	Monica no Castelo do Dragao
+1232A774	I	Magic Drive Plus BIOS (non-functional)
+BCFBFC67	 	Mahjong Sengoku Jidai (JP)
+1A9B396F	O	Mahjong Sengoku Jidai (JP) (2x overdump)	20000
+0E6EB5E8	B	Mahjong Sengoku Jidai (JP) (two bad bytes)	70C1=7E&1E441=3A
+3FAF4E19	O	Mahjong Sengoku Jidai (JP) (two bad bytes) (2x overdump)	20000
+996B2A07	 	Mahjong Sengoku Jidai [Proto] (JP)
+CA860451	 	Makai Retsuden (JP)
+BF0411AD	 	Maou Golvellius (JP)
+BF6F3E5F	 	Marble Madness
+D4F59AFB	T	Marble Madness (ES)	ATOJ
+94FEE07B	B	Marble Madness (bad byte)	158E3=FE
+E8EA842C	 	Marksman Shooting & Trap Shooting
+E8215C2E	 	Marksman Shooting & Trap Shooting & Safari Hunt
+76BBD33E	H	Master Mario Bros	Teddy Boy
+D164FDE7	H	Master Mega Man	Wonder Boy in Monster Land
+E15BA28B	F	Master Mega Man (f)	F
+96FB4D4B	 	Master of Darkness
+49C5D8E2	B	Master of Darkness (bad byte)	2FC0E=00
+1C04A0BC	H	Master Smash Brothers	Psycho Fox
+E29C4016	H	Master Zelda [CBT] [A]	Teddy Boy
+9B2E4DA4	H	Master Zelda [CBT] [B]	Teddy Boy
+B936F761	H	Master Zelda [RHW]	Teddy Boy
+93141463	 	Masters of Combat
+D1B9112E	O	Masters Of Combat (2x overdump)	40000
+22F2C541	B	Masters of Combat (2 bad bytes)	3281D=ff&334AC=ff
+6AD0B71D	V	Masters of Combat (bad - 10KB missing)
+31B8040B	 	Maze Hunter 3-D
+CD16DB0A	V	Maze Hunter 3-D (bad - 54KB missing)
+871562B0	 	Maze Walker (JP)
+4FCC473B	D	Mega Drive 6-Button Controller Test	Charles MacDonald
+9EF355D7	D	MegaMania SMS	Haroldo Pinheiro
+29BC7FAD	 	Megumi Rescue (JP)
+D7416B83	 	Mercs
+5F09A842	B	Mercs (2 bad bytes)	E7C2=7F&4FC02=DF
+25051DD5	 	Mickey's Ultimate Challenge (BR)
+2B86BCD7	O	Mickey's Ultimate Challenge (BR) (2x overdump) [A]	40000
+7E811F8D	O	Mickey's Ultimate Challenge (BR) (2x overdump) [B]	40000
+80F94F99	B	Mickey's Ultimate Challenge (BR) (309 bad bytes)	3FECB=00&3FECC=00&3FECD=00&3FECE=00&3FECF=00&3FED0=00&3FED1=00&3FED2=00&3FED3=00&3FED4=00&3FED5=00&3FED6=00&3FED7=00&3FED8=00&3FED9=00&3FEDA=00&3FEDB=00&3FEDC=00&3FEDD=00&3FEDE=00&3FEDF=00&3FEE0=00&3FEE1=00&3FEE2=00&3FEE3=00&3FEE4=00&3FEE5=00&3FEE6=00&3FEE7=00&3FEE8=00&3FEE9=00&3FEEA=00&3FEEB=00&3FEEC=00&3FEED=00&3FEEE=00&3FEEF=00&3FEF0=00&3FEF1=00&3FEF2=00&3FEF3=00&3FEF4=00&3FEF5=00&3FEF6=00&3FEF7=00&3FEF8=00&3FEF9=00&3FEFA=00&3FEFB=00&3FEFC=00&3FEFD=00&3FEFE=00&3FEFF=00&3FF00=00&3FF01=00&3FF02=00&3FF03=00&3FF04=00&3FF05=00&3FF06=00&3FF07=00&3FF08=00&3FF09=00&3FF0A=00&3FF0B=00&3FF0C=00&3FF0D=00&3FF0E=00&3FF0F=00&3FF10=00&3FF11=00&3FF12=00&3FF13=00&3FF14=00&3FF15=00&3FF16=00&3FF17=00&3FF18=00&3FF19=00&3FF1A=00&3FF1B=00&3FF1C=00&3FF1D=00&3FF1E=00&3FF1F=00&3FF20=00&3FF21=00&3FF22=00&3FF23=00&3FF24=00&3FF25=00&3FF26=00&3FF27=00&3FF28=00&3FF29=00&3FF2A=00&3FF2B=00&3FF2C=00&3FF2D=00&3FF2E=00&3FF2F=00&3FF30=00&3FF31=00&3FF32=00&3FF33=00&3FF34=00&3FF35=00&3FF36=00&3FF37=00&3FF38=00&3FF39=00&3FF3A=00&3FF3B=00&3FF3C=00&3FF3D=00&3FF3E=00&3FF3F=00&3FF40=00&3FF41=00&3FF42=00&3FF43=00&3FF44=00&3FF45=00&3FF46=00&3FF47=00&3FF48=00&3FF49=00&3FF4A=00&3FF4B=00&3FF4C=00&3FF4D=00&3FF4E=00&3FF4F=00&3FF50=00&3FF51=00&3FF52=00&3FF53=00&3FF54=00&3FF55=00&3FF56=00&3FF57=00&3FF58=00&3FF59=00&3FF5A=00&3FF5B=00&3FF5C=00&3FF5D=00&3FF5E=00&3FF5F=00&3FF60=00&3FF61=00&3FF62=00&3FF63=00&3FF64=00&3FF65=00&3FF66=00&3FF67=00&3FF68=00&3FF69=00&3FF6A=00&3FF6B=00&3FF6C=00&3FF6D=00&3FF6E=00&3FF6F=00&3FF70=00&3FF71=00&3FF72=00&3FF73=00&3FF74=00&3FF75=00&3FF76=00&3FF77=00&3FF78=00&3FF79=00&3FF7A=00&3FF7B=00&3FF7C=00&3FF7D=00&3FF7E=00&3FF7F=00&3FF80=00&3FF81=00&3FF82=00&3FF83=00&3FF84=00&3FF85=00&3FF86=00&3FF87=00&3FF88=00&3FF89=00&3FF8A=00&3FF8B=00&3FF8C=00&3FF8D=00&3FF8E=00&3FF8F=00&3FF90=00&3FF91=00&3FF92=00&3FF93=00&3FF94=00&3FF95=00&3FF96=00&3FF97=00&3FF98=00&3FF99=00&3FF9A=00&3FF9B=00&3FF9C=00&3FF9D=00&3FF9E=00&3FF9F=00&3FFA0=00&3FFA1=00&3FFA2=00&3FFA3=00&3FFA4=00&3FFA5=00&3FFA6=00&3FFA7=00&3FFA8=00&3FFA9=00&3FFAA=00&3FFAB=00&3FFAC=00&3FFAD=00&3FFAE=00&3FFAF=00&3FFB0=00&3FFB1=00&3FFB2=00&3FFB3=00&3FFB4=00&3FFB5=00&3FFB6=00&3FFB7=00&3FFB8=00&3FFB9=00&3FFBA=00&3FFBB=00&3FFBC=00&3FFBD=00&3FFBE=00&3FFBF=00&3FFC0=00&3FFC1=00&3FFC2=00&3FFC3=00&3FFC4=00&3FFC5=00&3FFC6=00&3FFC7=00&3FFC8=00&3FFC9=00&3FFCA=00&3FFCB=00&3FFCC=00&3FFCD=00&3FFCE=00&3FFCF=00&3FFD0=00&3FFD1=00&3FFD2=00&3FFD3=00&3FFD4=00&3FFD5=00&3FFD6=00&3FFD7=00&3FFD8=00&3FFD9=00&3FFDA=00&3FFDB=00&3FFDC=00&3FFDD=00&3FFDE=00&3FFDF=00&3FFE0=00&3FFE1=00&3FFE2=00&3FFE3=00&3FFE4=00&3FFE5=00&3FFE6=00&3FFE7=00&3FFE8=00&3FFE9=00&3FFEA=00&3FFEB=00&3FFEC=00&3FFED=00&3FFEE=00&3FFEF=00&3FFF0=00&3FFF1=00&3FFF2=00&3FFF3=00&3FFF4=00&3FFF5=00&3FFF6=00&3FFF7=00&3FFF8=00&3FFF9=00&3FFFA=00&3FFFB=00&3FFFC=00&3FFFD=00&3FFFE=00&3FFFF=00
+ECCF7A4F	E	Mickey's Ultimate Challenge (change extension to gg)	gg
+A577CE46	 	Micro Machines
+D8EEED93	B	Micro Machines (2 bad bytes)	3DA00=FB&3DA02=30
+58FA27C6	V	Micro Machines (bad dump - pages 1 2 4 & 1)	Very bad
+F85446B0	H	Micro Machines [Sega mapper hack] [A]	Micro Machines by Mike G; allows it to be played with a standard mapper
+3648E5E4	H	Micro Machines [Sega mapper hack] [B]	Micro Machines by nop.nop; allows it to be played with a standard mapper
+54BA742A	H	Micro Machines [Sega mapper hack] [C]	Micro Machines by nop.nop; allows it to be played with a standard mapper; also passes Codemasters checksum
+07C5B540	H	Micro Machines [Sega mapper hack] [D]	Micro Machines by nop.nop; allows it to be played with a standard mapper; also passes Codemasters checksum and Sega checksum
+0E333B6E	 	Miracle Warriors - Seal of the Dark Lord
+EBC2BFA1	B	Miracle Warriors - Seal of the Dark Lord (bad byte)	2DC0E=20
+4139AE0C	O	Miracle Warriors - Seal of the Dark Lord (f) [A]	40000
+41BF3D56	F	Miracle Warriors - Seal of the Dark Lord (f) [B]	F
+F14A8546	F	Miracle Warriors - Seal of the Dark Lord (h) (f)	H128
+ED9FD67D	T	Miracle Warriors - Seal Of The Dark Lord (DE)	Azelistic; v0.95b
+FBE5CFBB	 	Missile Defense 3-D
+E79BB689	 	Missile Defense 3-D [BIOS]
+72542786	E	Monaco GP [B] (change extension to sg)	sg
+458390E7	H	Monica 3 [A]	Wonder Boy in Monster World
+693C63D5	H	Monica 3 [B]	Wonder Boy in Monster World
+01D67C0B	 	Monica no Castelo do Dragao (BR)
+FAC09AF4	B	Monica no Castelo do Dragao (BR) (57 bad bytes)	3352D=FF&3353A=FF&3353E=FF&33592=FF&335A2=FF&335AA=FF&335C0=FF&335C2=FF&336D1=FF&338D0=FF&338F2=FF&338F6=FF&3392B=FF&33954=FF&3397C=FF&33992=FF&339FC=FF&33ADD=FF&33AE5=FF&33B9E=FF&33D73=FF&33D7C=FF&33D8C=FF&33D90=FF&33D94=FF&33DE9=FF&37734=FF&378F2=FF&378F4=FF&378F6=FF&37954=FF&37992=FF&379FC=FF&37ADD=FF&37BC8=FF&37BF0=FF&37D7C=FF&37D90=FF&37DE9=FF&37E3F=FF&38F5E=FF&3BDE9=FF&3BDF1=FF&3BE79=FF&3D919=FE&3D91B=FD&3D91D=FD&3E0D5=FD&3E2C3=FF&3E6D0=FF&3EABB=FE&3EAFE=FF&3EDA0=FF&3F49C=FF&3F4B2=FE&3F948=FF&3F94B=FF
+69538469	 	Monopoly [A]	V1
+026D94A4	 	Monopoly [B]	V1, very different to [A]
+82FDA895	 	Montezuma's Revenge - Featuring Panama Joe (US)
+56CC906B	 	Moonwalker (Michael Jackson's)
+9C4F03AC	B	Moonwalker (Michael Jackson's) (32 bad bytes)	84=32&85=08&86=DE&87=F1&88=ED&89=45&A6=00&A7=00&A8=00&A9=00&AA=00&AB=00&AC=00&AD=00&AE=00&AF=00&B0=00&B1=00&B2=00&B3=00&B4=00&B5=00&B6=00&B7=00&B8=00&B9=00&BA=00&BB=00&BC=00&BD=00&BE=00&BF=00
+4B5EE397	F	Moonwalker (Michael Jackson's) (h) [A]	H512
+5900A179	F	Moonwalker (Michael Jackson's) (h) [B]	H512
+302DC686	 	Mortal Kombat
+19279CD0	B	Mortal Kombat (bad byte)	715E1=70
+2663BF18	 	Mortal Kombat II
+9ED8341A	B	Mortal Kombat II (bad byte)	30C0E=07
+395AE757	 	Mortal Kombat 3 (BR)
+3CD816C6	 	Ms. Pac-Man
+F0898A69	D	Music Module [beta]	Scott Jacko; "plays like garbage"
+F40FA5D6	E	Music Station (change extension to sg)	sg
+62F0C23D	 	My Hero
+99985AD9	O	My Hero (2x overdump)	8000
+144CFA14	O	My Hero (4x overdump)	8000
+93097CB7	O	My Hero (8x overdump)	8000
+8E9B0F4B	F	My Hero (8x overdump) (h) [A]	H512
+EF3CC146	F	My Hero (8x overdump) (h) [B]	H512
+A06D065C	D	NanoWars 8k	Haroldo O. Pinheiro; v0.7
+02BD3A57	H	Natal do Mymo	Psycho Fox
+5B5F9106	 	Nekyuu Kousien (JP)
+C660FF34	 	NewZealand Story, The
+FBC66CBF	B	NewZealand Story, The (bad byte)	12C0E=01
+22F4F92A	E	Nihonshi Nenpyou (JP) (change extension to sc)	sc
+82AE5ACD	D	Nine Pixels	Heliophobe; SMS Power Sega 8-bit Coding Competition 2006 entry
+1B1D8CC2	 	Ninja Gaiden
+C28E542F	T	Ninja Gaiden (DE)	Star-Trans; v1.00
+C94C2B4E	T	Ninja Gaiden (ES)
+761E9396	 	Ninja Gaiden [Proto]
+0643620E	T	Ninja Gaiden [Proto] (FR) [A]	Terminus Traduction
+41E5B485	T	Ninja Gaiden [Proto] (FR) [B]	Terminus Traduction; v1.00
+9D5A2845	T	Ninja Gaiden [Proto] (FR) [C] (corrupted)	Guismo
+317F14DA	T	Ninja Gaiden [Proto] (DE)
+17FEE94A	T	Ninja Gaiden [Proto] (ES)
+3B912408	E	Ninja Princess (change extension to sg)	sg
+261587B8	D	Not Only Words	Maxim
+09196FC5	E	N-Sub [A] (change extension to sg)	sg
+6A5A1E39	 	Olympic Gold
+1D93246E	 	Olympic Gold [SMS-GG] [A]
+A2F9C7AF	 	Olympic Gold [SMS-GG] [B]
+8550541E	F	Olympic Gold [SMS-GG] [B] (f)	F
+CE97EFE8	B	Olympic Gold [SMS-GG] [B] (four bad bytes)	2DBD1=D0&2DC16=BF&3C3F1=08&3C41F=68
+580293EE	D	Only Words	Mike G; v0.1
+BEA27D5C	 	Opa Opa (JP)
+205CAAE8	 	Operation Wolf
+23283F37	T	Operation Wolf (FR)
+F4F78B76	E	Orguss (change extension to sg)	sg
+82EF2A7D	 	Ottifants, The
+5589D8D2	 	Out Run
+04FA0682	F	Out Run (bad byte) (h) [A]	H512
+CA99CEFA	F	Out Run (bad byte) (h) [B]	H512
+1968757E	B	Out Run (bad byte) [A]	2EA0E=00
+D70BBD06	B	Out Run (bad byte) [B]	30DEB=FE
+DC0860E7	F	Out Run (f)	F
+481BAB2E	F	Out Run (h)	H512
+D6F43DDA	 	Out Run 3-D
+77936A83	V	Out Run 3-D (corrupted)	First 12KB is data from Out Run Europa [GG]
+3932ADBC	 	Out Run Europa
+F037EC00	 	Out Run Europa [SMS-GG]
+2AA12D7E	B	Out Run Europa [SMS-GG] (four bad bytes)	35978=00&3597A=1C&3597C=00&3597E=06
+EDA59FFC	F	Out Run Europa [SMS-GG] (h)	H512
+0189931E	T	Out Run Europa [SMS-GG] (BR)
+D0D25584	F	Out Run Europa [SMS-GG] (BR) (h)	H512
+30C52E5E	E	Pacar (change extension to sg)	sg
+FD7CB50A	E	Pachinko 2 (change extension to sg)	sg
+B6363AB8	H	Pac-Man [GG2SMS]	Game Gear Pac-Man by Chris Covell; v1.00
+BE57A9A5	 	Pacmania
+6708CC37	F	Pacmania (2x overdump) (h) [A]	H512
+2BE9619B	F	Pacmania (2x overdump) (h) [B]	H512
+A8FCDF9D	F	Pacmania (2x overdump) (h) [C]	H512
+7A9ABFCB	O	Pacmania (2x overdump) [A]	20000
+367B1267	O	Pacmania (2x overdump) [B]	20000
+6A264C0C	V	Pacmania (corrupted)	Contains data from Out Run Europa [GG]
+6EAEAD07	D	Page Frame Register Detect [v0.01]	Eric Quinn
+AD0FF4F1	D	Page Frame Register Detect [v1.00]	Eric Quinn
+1F30CB32	D	Page Frame Register Detect [v2.00]	Eric Quinn
+294E0759	 	Paperboy
+C0E1EBC4	B	Paperboy (two bad bytes)	7DD=3D&4B68=3D
+327A0B4C	 	Paperboy (US)
+04A8A442	F	Paperboy (US) (f)	F
+36F04D14	B	Paperboy (US) (two bad bytes)	7DD=3D&4B6A=3D
+E030E66C	 	Parlour Games
+6C2F6330	F	Parlour Games (f)	F
+9AEFE664	 	Pat Riley Basketball [Proto]
+592B8297	D	Pause Test	FluBBa
+85060847	D	Paws	An!mal; SMS Power Sega 8-bit Coding Competition 2006 entry
+F97E9875	 	Penguin Land
+F6552DA8	O	Penguin Land (4x overdump)	20000
+2BCDB8FA	 	Penguin Land (JP)
+B9A3EBB7	H	Penguin Land [Playpal hack]	Penguin Land; hacked to make it compatible with the PlayPal/Coleco hardware
+95B9EA95	 	PGA TOUR Golf
+E4A65E79	 	Phantasy Star [v2]
+00BEF1D7	 	Phantasy Star [v3]
+A1541944	B	Phantasy Star [v3] (bad byte)	22041=00
+7F4F28C6	V	Phantasy Star [v3] (bad dump)	Very bad
+73F91638	O	Phantasy Star [v3] (f) [A]	80000
+EA64F003	F	Phantasy Star [v3] (f) [B]	F
+E80EE900	F	Phantasy Star [v3] (h) (f)	H128
+75971BEF	 	Phantasy Star (BR)
+56BD28D8	T	Phantasy Star [v3] (FR)	Floflo
+43390E72	T	Phantasy Star [v2] (DE)	Trans-Nation; v0.95
+A721A1DC	T	Phantasy Star [v3] (DE)	Trans-Nation; v0.95
+6605D36A	 	Phantasy Star (JP)
+EEFE22DE	V	Phantasy Star (JP) (broken half-translation)
+747E83B5	 	Phantasy Star (KR)
+3CA83C04	H	Phantasy Star [HK01]	Phantasy Star; hacked to more closely match the original Japanese version
+A13637A2	H	Phantasy Star [Pat Johnson]	Phantasy Star; hacked to display slightly different text in a few places
+07301F83	 	Phantasy Star [Megadrive] (JP)
+1A51579D	E	Phantasy Star Adventure (JP) (change extension to gg)	gg
+CB72A916	D	Picross [V1.00]	Maxim; SMS Power Sega 8-bit Coding Competition 2007 entry
+1F0D38C1	D	Picross [V1.01]	Maxim
+283712A9	B	Pit-Fighter (bad byte)	7AF7F=00
+B840A446	 	Pit-Fighter
+AA4D4B5A	 	Pit-Fighter (BR)
+37FCA2EB	E	Pitfall 2 [A] (change extension to sg)	sg
+3DB74761	E	Pitfall 2 [B] (change extension to sg)	sg
+080871D9	D	Playpal Port Prober
+6C476AA9	H	Pokemon Amarelo	Teddy Boy
+D0E919BD	H	Pokemon Azul	Teddy Boy
+D3AA5894	H	Pokemon Master	Psycho Fox
+647D8EDC	H	Pokemon Secreto	Teddy Boy
+3F78E5C8	H	Pokemon Vermelho	Teddy Boy
+3879AC1B	D	Pong Master	Haroldo Pinheiro; SMS Power Sega 8-bit Coding Competition 2006 entry
+F87D50FD	D	Pong Master 4k	Haroldo O. Pinheiro
+D5925ACD	D	Pong Master [Z88DK] [A]	Haroldo O. Pinheiro
+B0628F45	D	Pong Master [Z88DK] [B]	Haroldo O. Pinheiro
+314C0081	D	Pong Master [Z88DK] [C]	Haroldo O. Pinheiro
+82C12E96	D	Pong Master [Z88DK] [D]	Haroldo O. Pinheiro
+AE89C9A2	D	Pong Master [Z88DK] [E]	Haroldo O. Pinheiro
+194E48C6	D	Pong Master [Z88DK] [F]	Haroldo O. Pinheiro
+60D1AAAC	D	Pong Master [Z88DK] [G]	Haroldo O. Pinheiro
+EF681314	D	Pong Master [Z88DK] [H]	Haroldo O. Pinheiro
+B37C3EA8	H	Pop Breaker (JP) [GG2SMS] [v1.00]	Game Gear Pop Breaker (JP) by Chris Covell; v1.00
+BDFB09F6	H	Pop Breaker (JP) [GG2SMS] [v1.10]	Game Gear Pop Breaker (JP) by Chris Covell; v1.10
+DB6404BA	E	Pop Flamer (change extension to sg)	sg
+C7A1FDEF	 	Populous
+C7C906EA	O	Populous (f)	40000
+4A9B4ECB	F	Populous (h) (f)	H128
+ABD48AD2	 	Poseidon Wars 3-D
+5CA7B5C4	E	Poseidon Wars & Space Panic & Rambo (change extension to sf7)	sf7
+4077EFD9	 	Power Strike
+F94616C4	F	Power Strike (h)	H512
+514E7ABE	O	Power Strike (2x overdump)	20000
+4CDC0942	F	Power Strike (2x overdump) (h) [A]	H512
+37DD9196	F	Power Strike (2x overdump) (h) [B]	H512
+A109A6FE	 	Power Strike II
+673C68B8	B	Power Strike II (eight bad bytes)	6772D=FF&6772F=FF&67731=FF&67733=FF&6B641=FF&6B643=FF&6B645=FF&6B647=FF
+979263D8	H	Power Strike II [GG2SMS]	Game Gear Power Strike II by Chris Covell; v1.00
+0047B615	 	Predator 2
+518D8547	V	Predator 2 (bad - 42KB missing)
+E5F789B9	 	Predator 2 [SMS-GG]
+0652B785	D	Pretty Photo	Maxim
+7704287D	 	Prince of Persia
+311D2863	 	Prince of Persia [SMS-GG] [A]
+BA6344FC	B	Prince of Persia [SMS-GG] [A] (four bad bytes)	27061=FF&27063=FF&27065=FF&27067=FF
+2C8F5B9F	F	Prince of Persia [SMS-GG] [A] (h)	H512
+1C6C149C	V	Prince of Persia [SMS-GG] [A] (bad dump)
+CDC0CE50	V	Prince of Persia [SMS-GG] [A] (bad - 22KB missing)
+45F058D6	 	Prince of Persia [SMS-GG] [B]
+FBDE42D3	 	Pro Wrestling
+FD069AAE	O	Pro Wrestling (2x overdump minus 8K)	20000
+09489195	O	Pro Wrestling (2x overdump)	20000
+80181596	F	Pro Wrestling (2x overdump) (f)	F
+30AF0233	 	Promocao Especial M.System III Compact (BR)
+923CC640	H	PSI Hordes of Nei 1.0 [v2]	Phantasy Star [v2]
+762469EE	H	PSI Hordes of Nei 1.0 [v3]	Phantasy Star [v3]
+061AC772	H	PSI Hordes of Nei 1.1 [v2]	Phantasy Star [v2]
+E20268DC	H	PSI Hordes of Nei 1.1 [v3]	Phantasy Star [v3]
+BBA8AC72	H	PSI Hordes of Nei 1.3 [v2]	Phantasy Star [v2]
+5FB003DC	H	PSI Hordes of Nei 1.3 [v3]	Phantasy Star [v3]
+51755B12	H	PSI Hordes of Nei 1.42 [Lutz] [v2]	Phantasy Star [v2]
+B56DF4BC	H	PSI Hordes of Nei 1.42 [Lutz] [v3]	Phantasy Star [v3]
+A2D3D74B	H	PSI Hordes of Nei 1.42 [Noah] [v2]	Phantasy Star [v2]
+46CB78E5	H	PSI Hordes of Nei 1.42 [Noah] [v3]	Phantasy Star [v3]
+5C0B1F0F	 	Psychic World
+9B700645	T	Psychic World (DE)	Star-Trans
+255C2560	T	Psychic World (FR)	Terminus Traduction; v1.00
+97993479	 	Psycho Fox
+B8E2FEBC	T	Psycho Fox (FR)	Terminus Traduction; v1.00
+357D4F78	 	Putt & Putter	V3
+8167CCC4	 	Putt & Putter [Proto]	V1
+77DB4704	E	Q-Bert (change extension to sg)	sg
+E0F34FA6	 	Quartet
+001DB6D7	O	Quartet (2x overdump)	20000
+1D8FC52B	F	Quartet (2x overdump) (h) [A]	H512
+56B15AE5	F	Quartet (2x overdump) (h) [B]	H512
+54316FEA	 	R.C. Grand Prix
+56201996	 	R.C. Grand Prix [SMS-GG] [A]
+4902B7A2	 	R.C. Grand Prix [SMS-GG] [B]
+C804943F	H	R.H.W. 2000	Psycho Fox
+C172A22C	 	Rainbow Islands
+00EC173A	 	Rainbow Islands (BR)
+BBDA65F0	 	Rambo - First Blood Part II
+DA5A7013	 	Rambo III
+42FC47EE	 	Rampage
+5F6E3412	F	Rampage (h) [A]	H512
+EA1AFE22	F	Rampage (h) [B]	H512
+426E5C8A	 	Rampart
+FD1FFF2A	B	Rampart (two bad bytes)	1ABD7=00&1ABDF=00
+C547EB1B	 	Rastan
+DD117862	F	Rastan (f)	F
+89684379	O	Rastan (2x overdump)	40000
+796C76B4	B	Rastan (bad byte)	10223=FE
+9C76FB3A	 	Rastan Saga [SMS-GG] (JP)
+C264580F	D	Raster Effect Test	Charles MacDonald
+6D94BB0E	 	Reggie Jackson Baseball (US)
+53CB13C1	D	River Strike [v0.01 alpha]	Haroldo O. Pinheiro
+78DF344C	D	River Strike [v0.02 alpha]	Haroldo O. Pinheiro
+767C6744	D	River Strike [v0.03 alpha]	Haroldo O. Pinheiro
+1FE7F34E	D	River Strike [v0.04 alpha]	Haroldo O. Pinheiro
+2A586544	D	River Strike [Z88DK]	Haroldo O. Pinheiro
+F42E145C	 	Quest for the Shaven Yak Starring Ren Hoek & Stimpy (BR)
+3BE7F641	 	Renegade
+E3EC5B2D	T	Renegade (BR)
+79AC8E7F	 	Rescue Mission
+BB039219	F	Rescue Mission (f)	F
+B876FC74	 	Road Rash
+6FE5BBC3	H	Road Rash [pointless hack]	Road Rash; some undisplayed text has been removed from the start of the rom
+55B950FA	D	RobbyIE [v0.30]	Ventzislav Tzvetkov - http://drhirudo.hit.bg
+E988C541	D	RobbyIE [v0.31]	Ventzislav Tzvetkov - http://drhirudo.hit.bg
+F61874C9	D	RobbyIE [v0.99]	Ventzislav Tzvetkov - http://drhirudo.hit.bg
+9F951756	 	RoboCop 3
+8212B754	 	RoboCop versus The Terminator
+0FFDD03D	E	Rockn' Bolt (change extension to sg)	sg
+1BCC7BE3	 	Rocky
+5D634D43	B	Rocky (bad byte)	38A0E=01
+065E081F	F	Rocky (h) [A]	H512
+F0EC43CA	F	Rocky (h) [B]	H512
+9D79ED79	H	Rodrigo 2 em - Mate o Leonardo	Teddy Boy
+C7F3DA07	H	Rodrigo 2 em - Mate o Papai Noel - Versao de Natal	Teddy Boy
+628BA710	H	Rodrigo em - O Resgate	Wonder Boy (also has header which stops it working)
+1076C897	O	Rodrigo O Resgate (2x oversize)	20000
+1EE6E034	H	Rodrigo O Resgate [A]	Wonder Boy
+0DE4BB6B	F	Rodrigo O Resgate [A] (2x overdump) (h)	H512
+947DB11A	H	Rodrigo O Resgate [B]	Wonder Boy
+715E4E4C	O	Rodrigo O Resgate [B] (6416 bytes oversize)	20000
+583A6390	D	Rope Jump	Peder Johansen
+BB54B6B0	 	R-Type
+7510BCE3	T	R-Type (BR) [A]
+A3C80EE3	T	R-Type (BR) [B]	Emuboarding emunow.cjb.net
+304D8019	F	R-Type (h)	H512
+10B7FC20	F	R-Type (f)	F
+1FDAE719	 	Running Battle
+0B015EC6	B	Running Battle (2 bad bytes)	38902=DF&38942=DF
+49E9718B	E	Safari Hunting (change extension to sg)	sg
+619DD066	E	Safari Race [B] (change extension to sg)	sg
+66388128	 	Sagaia
+C0EA7FB7	O	Sagaia (2x overdump)	40000
+CB5D369B	B	Sagaia (bad byte)	3AD51=FE
+7CBD4432	D	SALY [v1.00]	Marc Klemp; v1.00 31/5/03
+5D62F2D1	D	SALY [v1.00a]	Marc Klemp; v1.00 15/12/05
+97D03541	 	Sangokushi 3 (KR)
+890E83E4	 	Sapo Xule O Mestre do Kung Fu (BR)
+7AB2946A	 	Sapo Xule S.O.S. Lagoa Poluida (BR)
+9A608327	 	Sapo Xule Vs Os Invasores do Brejo (BR)
+16249E19	 	Satellite 7 (JP)
+87B9ECB8	H	Satellite 7 (JP) [Hack]
+9A8B28EC	 	Scramble Spirits
+5DD789A2	V	Scramble Spirits (bad dump)
+6841CE1D	D	Scroll Test Program	Charles MacDonald
+00529114	 	Secret Command
+6E5F8A27	O	Secret Command (2x overdump)	20000
+73CDF9DB	F	Secret Command (2x overdump) (h)	H512
+F691F9C7	E	Sega Basic Level 2 (JP) (change extension to sc)	sc
+5D9F11CA	E	Sega Basic Level 3 [A] (change extension to sc)	sc
+155FD01F	E	Sega Basic Level 3 [B] (change extension to sc)	sc
+A8061AEF	 	Sega Chess
+2ECFE5F2	T	Sega Chess (ES)
+50A2A040	E	Sega Disk Basic v1.0p (change extension to sf7)	sf7
+FFDBCD97	E	Sega Disk Basic v1.0p & Yeno Demo (change extension to sf7)	sf7
+8EFC77BC	E	Sega Flipper (change extension to sg)	sg
+981E36C1	E	Sega Galaga (change extension to sg)	sg
+5F1120C8	D	Sega Mark III BG Test	Enri (T.H); v0.01
+49790A5A	D	Sega Mark III Port Test	Enri (T.H); v0.1
+2EC28526	E	Sega Music Editor (JP) (change extension to sc)	sc
+622010E1	E	Sega Music Editor [A] (change extension to sc)	sc
+B67EA1C4	E	Sega Music Editor [B] (change extension to sc)	sc
+2A2AC7E1	D	Sega Slide	FluBBa
+296879DD	 	Sega World Tournament Golf
+F0BA2BC6	 	Seishun Scandal (JP)
+56476A54	B	Seishun Scandal (JP) (bad byte)	7625=08
+BCD91D78	H	Seishun Scandal (JP) [Hack]
+F8176918	 	Sensible Soccer
+1575581D	 	Shadow of the Beast
+3793C01A	 	Shadow Dancer - The Secret Of Shinobi
+4135AE1D	B	Shadow Dancer - The Secret Of Shinobi (73 bad bytes)	1B84D=FF&20CFA=FC&20DF2=FE&20E7A=FC&216EB=FC&47941=FF&5877B=FE&5DB95=FF&63951=FF&6CB9D=FF&6D395=FF&6D4DD=FF&6DB9D=FF&6F64B=FF&74BDB=FF&74BE9=FF&75BC3=FF&76817=FF&78261=FF&78773=FF&78F7B=FF&7C19D=FF&7C21C=FF&7C35D=FF&7C3F1=FF&7C5F3=FF&7C5FB=FF&7C6EB=FF&7C6FB=FF&7C769=FF&7C771=FF&7C773=FF&7C77B=FF&7C7EB=FF&7C7FB=FF&7C919=FF&7C99D=FF&7CA1C=FF&7CCFB=FF&7CDF3=FF&7CEEB=FF&7CEFB=FF&7CF71=FF&7CF7B=FF&7CFFB=FF&7D353=FF&7D35B=FF&7D5E1=FF&7D5F3=FF&7D671=FF&7D6EB=FF&7D6FB=FF&7D773=FF&7D77B=FF&7D7F3=FF&7D7FB=FF&7DB5E=FF&7DDFB=FF&7DEF3=FF&7DEFB=FF&7DF71=FF&7DF7B=FF&7DFFB=FF&7E193=FF&7E195=FF&7E29B=FF&7E29D=FF&7E995=FF&7EA9D=FF&7F193=FF&7F29D=FF&7FC5D=FF&7FEF1=FF
+AAB67EC3	 	Shanghai
+8D3D6BFF	O	Shanghai (2x overdump)	20000
+5A917E06	E	Shinnyushain Tooru Kun (Konami no) (JP) (change extension to sg)	sg
+0C6FAC4E	 	Shinobi
+E1FFF1BB	 	Shinobi (JP)
+11FDDFB2	F	Shinobi (h) [A]	H512
+813C5C2E	F	Shinobi (h) [B]	H512
+483BD1C8	B	Shinobi (two bad bytes)	13645=FF&13647=FF
+B2F41AD6	B	Shinobi (5 bad bytes)	A92C=F7&10981=77&132C0=6F&15620=FB&30E04=F7
+A09E1DF1	E	Shinobi (5 bad bytes) (change unzipped extension to sms.gz and decompress)	sms.gz
+4BFD45F0	F	Shinobi (5 bad bytes) (change unzipped extension to sms.gz and decompress) (h)	H128
+4B051022	 	Shooting Gallery
+5F40660D	D	Simple Sprite Demo - Release 2	Heliophobe
+01932DF9	E	Sindbad Mystery (change extension to sg)	sg
+54D5BEC3	E	Sindbad Mystery (bad byte) (change extension to sg)	sg
+ABDF3923	 	Sitio do Picapau Amarelo (BR)
+BFB95AD2	D	Skipping Rope	Peder Johansen
+D33B296A	 	Slap Shot [A]
+1D3EDC72	E	Slap Shot [A] (change extension of unzipped rom to zip)	zip
+0473142F	B	Slap Shot [A] (four bad bytes)	1DB81=FF&1DB83=FF&1DB85=FF&1DB87=FF
+DB64C7C0	O	Slap Shot [A] (f)	40000
+074F0893	F	Slap Shot [A] (h) (f)	H128
+C93BD0E9	 	Slap Shot [B]
+702C3E98	 	Slap Shot (US)
+A0440666	D	SMS 3-D Demo	Chris Covell
+350F7497	D	SMS APA Demo [v0.01]	Haroldo O. Pinheiro
+E4CD2EDD	D	SMS APA Demo [v0.02]	Haroldo O. Pinheiro
+5AD6EDAC	H	SMS BIOS (US v1.3) [Hack]	SMS BIOS (US v1.3) to make it play the snail game when loaded as a ROM
+0072ED54	I	SMS BIOS (US v1.3)
+AD31C5FF	D	SMS Boot Loader	Bock; v0.9
+48D44A13	I	SMS Japanese (v2.1) [BIOS]
+1A15DFCC	I	SMS Prototype (M404) [BIOS]
+EE2C29BA	I	SMS Store Display Unit [BIOS] (non-functional)	Different memory map; v1.3
+97B89878	D	SMS Cast	Bock
+1E9FCE5F	D	SMS Chip-8 Interpreter 0.1	Maxim
+A0154E51	D	SMS Chip-8 Interpreter 0.11	Maxim
+E11CD680	D	SMS Chip-8 Interpreter 0.2	Maxim
+1ABF0172	D	SMS Chip-8 Interpreter 0.21	Maxim
+22988EDB	D	SMS Devkit Example 1	Martin Konrad
+F7D9B8BC	D	SMS I-O Test #1	Charles MacDonald; v1.10
+D27373BA	D	SMS Palette [A]	Bock
+EA766665	D	SMS Palette [B]	Bock
+1A07B7A4	D	SMS Power	Zoop (Bock)
+2CCECEFD	D	SMS Program Test	Peder Johansen
+D5F040A5	D	SMS RPG Project v0.24	Nick Pedersen
+1B1EFC66	D	SMS Sound Test 1.1	Heliophobe; v1.1
+7DBDE57E	D	SMS VGM player 0.45	Maxim
+D654CFAD	D	SMSC's BASIC (non-functional)	SMSC
+05480C72	D	SMSC's ONE (non-functional)	SMSC
+1079CE44	V	SMCS's ONE  (non-functional) (broken)
+357F000B	D	SMSC's Text Demo	SMSC
+B20CC036	D	SMSC's TWO01 (non-functional)	SMSC
+8A098A14	V	SMSC's TWO01 (non-functional) (broken)
+297EFB87	D	SMSPower 7 [v1.00]	Heliophobe
+C2106268	D	SMSPower 7 [v1.01]	Heliophobe
+72506A85	D	SMSPower 7 [v1.03]	Heliophobe
+3E63768A	 	Smurfs, The
+97E5BB7D	 	Smurfs Travel the World, The
+304FE02B	D	Snail Music Demo [A]	Eric Quinn
+79BEE042	D	Snail Music Demo [B]	Eric Quinn
+E2E2CC24	D	SokoMaster	Haroldo O. Pinheiro; v1.00; SMS Power Sega 8-bit Coding Competition 2007 entry
+ED9A19B6	T	Soldados do Tempo (BR) [A]	Emunow
+FF0F9323	T	Soldados do Tempo (BR) [B]	CBT
+11645549	 	Solomon no Kagi - Oujo Rihita no Namida (JP)
+96B3F29E	 	Sonic Blast (BR)
+AEDF3BDF	 	Sonic Chaos
+FB14F1CF	B	Sonic Chaos (bad byte)	27EE9=FE
+96BB96E1	H	Sonic RPG	Phantasy Star
+11C1BC8A	 	Sonic Spinball
+211507F4	B	Sonic Spinball (bad byte)	33BDF=00
+B519E833	 	Sonic The Hedgehog
+CD1BAC10	F	Sonic The Hedgehog (f)	F
+246564E6	V	Sonic The Hedgehog (bad dump)	Very bad
+48806FF7	T	Sonic The Hedgehog (FR)	Terminus Traduction; v1.00
+81C3476B	I	Sonic The Hedgehog [BIOS]
+4B3C7752	H	Sonic 1 Sprite Hack	Sonic The Hedgehog by Ambil
+5B3B922C	 	Sonic The Hedgehog 2 [v0]
+CD85F7C5	F	Sonic The Hedgehog 2 [v0] (f)	F
+D6F2BFCA	 	Sonic The Hedgehog 2 [v1]
+54F91CBA	H	Sonic 2 Rebirth	Sonic The Hedgehog 2 [v0] by Dr Eggfan of Shadowsoft
+A6933E55	H	Sonic vs. Os Mauniks	Psycho Fox
+6259AE57	H	Sonicboy 2 - The Eggman's Trap	Wonder Boy 3
+F8C3D4F4	H	Sonicboy 3 - Eggman's Room [A]	Teddy Boy
+C247F98C	H	Sonicboy 3 - Eggman's Room [B]	Teddy Boy
+CC815F82	H	Sonicboy 4 [A]	Wonder Boy in Monster World
+11637350	H	Sonicboy 4 [B]	Wonder Boy in Monster World
+6A16DCE4	H	Sonicboy in Monsterland	Wonder Boy in Monster Land
+922C5468	E	Souko Ban (change extension to sg)	sg
+A908CFF5	 	Space Gun
+BEDDF80E	 	Space Harrier [50 & 60 Hz]
+CA1D3752	 	Space Harrier [50 Hz]
+47BD2006	V	Space Harrier [50 Hz] (bad dump)
+D78F44AE	F	Space Harrier [50 Hz] (h) [A]	H512
+F63E2DD4	F	Space Harrier [50 Hz] (h) [B]	H512
+6BD5C2BF	 	Space Harrier 3-D
+156948F9	 	Space Harrier 3D (JP)
+6AD5CB3D	E	Space Invaders (change extension to sg)	sg
+33FDEA7A	D	SpaceOddity v.00	Proppy & Tet
+5ED9495B	D	SpaceOddity v.01	Proppy & Tet
+9039DB33	D	SpaceOddity v.02	Proppy & Tet
+743E0E73	D	SpaceOddity v.03	Proppy & Tet
+FBDE8C25	D	SpaceOddity v.04	Proppy & Tet
+9A023763	D	SpaceOddity v.05	Proppy & Tet
+E2D9560A	D	SpaceOddity v.06	Proppy & Tet
+6447D4E2	D	SpaceOddity v.07	Proppy & Tet
+8ABB04FD	D	SpaceOddity v.08	Proppy & Tet
+EDA91464	D	SpaceOddity v.09	Proppy & Tet
+BB8AA4D6	D	SpaceOddity v.10	Proppy & Tet
+D57E9069	D	SpaceOddity v.11	Proppy & Tet
+0FBC0916	D	SpaceOddity v.12	Proppy & Tet
+6DE37953	D	SpaceOddity v.13	Proppy & Tet
+17A8F966	D	SpaceOddity v.14	Proppy & Tet
+08803E45	D	SpaceOddity v.15	Proppy & Tet
+1D6D755E	D	SpaceOddity v.16	Proppy & Tet
+C5B73614	D	SpaceOddity v.17	Proppy & Tet
+4A81A3EC	D	SpaceOddity v.18	Proppy & Tet
+A79AED1B	D	SpaceOddity v.19	Proppy & Tet
+2BEB762D	D	SpaceOddity v.20	Proppy & Tet
+C9D7A460	D	SpaceOddity v.21	Proppy & Tet
+26ED3D83	D	SpaceOddity v.22	Proppy & Tet
+EA3D0D59	D	SpaceOddity v.23	Proppy & Tet
+B8B58B30	E	Space Slalom (change extension to sg)	sg
+FA8E4CA0	 	Special Criminal Investigation - S.C.I.
+1B7D2A20	 	Special Criminal Investigation - S.C.I. [Proto]
+A57CAD18	 	Speedball [Image Works]
+5CCC1A65	 	Speedball [Virgin]
+0C7366A0	 	Speedball 2
+4752CAE7	 	SpellCaster
+A0587800	T	SpellCaster (FR) [A]	Terminus Traduction
+9B1F566E	T	SpellCaster (FR) [B]	Terminus Traduction; v1.0
+DA375ABD	H	SpellCaster [stupid hack]	SpellCaster; the only difference is it says "ass-game" when you start. Stupid.
+A225F344	F	spellCaster [stupid hack] (f)	F
+EBE45388	 	Spider-Man - Return of the Sinister Six
+908FF25C	 	Spider-Man - vs. The Kingpin
+E42E4998	 	Sports Pad Football (US)
+41C948BF	 	Sports Pad Soccer (JP)
+D6A8DD98	D	Sprite & Priority Test Program	Charles MacDonald; v1.00
+EF9AAF97	D	Sprite & Priority Test Program [bad header]	Charles MacDonald; v1.00; has bad SDSC header
+FFCF390E	D	Sprite Multiplex Demo	Charles MacDonald; v1.00
+BDF2209C	D	Sprite Overflow Test Program	Charles MacDonald; v1.00
+BD274327	D	SpriTest	Mic; v0.01
+78D7FAAB	 	Spy vs Spy
+B87E1B2B	 	Spy vs Spy [Display Unit]	The same as the card version, but with extra data to pad it to 256KB.
+D41B9A08	 	Spy vs Spy (JP)
+A71BC542	 	Spy vs Spy (JP) [Hack]
+B846B52A	E	Star Force (change extension to sg)	sg
+7F25DECA	E	Star Jacker (new) (change extension to sg)	sg
+1AE94122	E	Star Jacker (old) (change extension to sg)	sg
+D4B8F66D	 	Star Wars
+1DE2C2D0	 	Strategic Defense Initiative (JP)
+0F8287EC	 	Street Fighter II' (BR)
+599901BB	B	Street Fighter II' (BR) (five bad bytes)	72=00&642=FD&AF0=2E&64DE0=EF&69510=BF
+87AABDFE	B	Street Fighter II' (BR) (four bad bytes)	72=00&642=FD&64DE0=EF&69510=BF
+4AB3790F	 	Streets of Rage
+ECC18147	T	Streets of Rage (FR)
+6F2CF48A	B	Streets of Rage (two bad bytes)	591FF=00&5937F=00
+C95E0CC2	B	Streets of Rage (two bad bytes) (FR)	591FF=00&5937F=00
+04E9C089	 	Streets of Rage II
+9802ED31	 	Strider
+131BDB98	F	Strider (h) [A]	H512
+55A4ECBC	F	Strider (h) [B]	H512
+471CDB51	T	Strider (BR) [A]	Emunow
+53C2FEB2	T	Strider (BR) [B]	CBT/EmuBoarding
+9F683DD3	B	Strider (2 bad bytes)	28827=FE&6EC43=FE
+14710B7A	F	Strider (2 bad bytes) (h)	H512
+40760BB3	B	Strider (2 bad bytes) (BR) [A]	28827=FE&6EC43=FE
+CB6F3D1A	F	Strider (2 bad bytes) (BR) [A] (h)	H512
+54A82E50	B	Strider (2 bad bytes) (BR) [B]	28827=FE&6EC43=FE
+DFB118F9	F	Strider (2 bad bytes) (BR) [B] (h)	H512
+5B731A99	B	Strider (bad byte)	56F01=FF
+B8F0915A	 	Strider II
+D8F2F1B9	 	Submarine Attack
+B13DF647	 	Sukeban Deka II - Shoujo Tekkamen Densetsu (JP)
+8DA5C93F	 	Summer Games
+80EB1FFF	 	Summer Games [Proto]
+0DBF3B4A	 	Super Basketball [Demo]
+67C2F0FF	 	Super Boy II (KR)
+AB260100	V	Super Futebol (BR) (bad dump)	Needs redump
+551E6F51	 	Super Futebol II (BR)	from Game Box Serie Esportes (BR)
+406AA0C2	 	Super Kick Off
+00D614E9	V	Super Kick Off (first 32KB only)
+29768BEA	V	Super Kick Off (bad dump)
+10DBBEF4	 	Super Kick Off [SMS-GG] (JP)
+90BFD088	I	Super Magic Drive BIOS 3.0
+07402A75	I	Super Magic Drive BIOS 4.1a
+55BF81A0	 	Super Monaco GP
+3EF12BAA	 	Super Monaco GP (US)
+E890331D	 	Super Monaco GP II (Ayrton Senna's)
+54F68C2A	 	Super Off Road
+E8B42B1F	E	Super Off Road [A] (change extension to gg)	gg
+7E0EF8CB	 	Super Racing (JP)
+1D6244EE	 	Super Space Invaders
+E0B1AFF8	 	Super Smash T.V.
+084CC13E	E	Super Tank (change extension to sg)	sg
+914514E3	 	Super Tennis
+F927F41C	F	Super Tennis (h) [A]	H512
+E86B08EB	F	Super Tennis (h) [B]	H512
+BD1CC7DF	 	Super Tetris (KR)
+8230384E	O	Super Tetris (KR) (4x overdump)	10000
+E2FCB6F3	 	Super Wonder Boy (JP)
+B1DA6A30	 	Super Wonder Boy Monster World (Super Wonder Boy Monster Land) (JP)
+6F9AC98F	 	Superman - The Man of Steel
+382CEA1A	D	Synth Test	Heliophobe
+85CFC9C9	 	Taito Chase H.Q.
+EEEAAEE5	O	Taito Chase H.Q. (2x overdump)	40000
+7BB81E3D	 	Taito Chase H.Q. [SMS-GG] (JP)
+3B627808	O	Taito Chase H.Q. [SMS-GG] (JP) (2x overdump)	20000
+44FBE8F6	H	Taito Chase H.Q. [SMS-GG] (JP) [Hack]
+18086B70	O	Taito Chase H.Q. [SMS-GG] (JP) (2x overdump) [Hack]	20000
+6A96978D	E	Tanoshii Sansuu (ES 6th - Vol 2) (JP) (change extension to sc)	sc
+7CC3E837	 	Taz-Mania
+1B312E04	 	Taz-Mania [Proto]
+C63E7B0A	T	Taz-Mania [Proto] (BR)	www.emubrazil.tk
+11CE074C	 	Taz in Escape From Mars (BR)
+5A1C3DDE	 	Tecmo World Cup '93
+96E75F48	 	Tecmo World Cup '93 [Proto]
+2728FAA3	 	Teddy Boy
+E57A9865	F	Teddy Boy (f)	F
+8FC6FEF9	H	Teddy Boy & Geraldinho	Teddy Boy
+316727DD	 	Teddy Boy Blues (JP)
+9DFA67EE	H	Teddy Boy Blues (JP) [Hack]
+D7508041	 	Teddy Boy Blues [EP-MyCard] (JP)
+1A390B93	 	Tennis Ace
+8132AB2C	 	Tensai Bakabon (JP)
+DD4A661B	E	Terebi Oekaki (change extension to sg)	sg
+EDC5C012	 	Terminator, The
+AC56104F	 	Terminator 2 - Judgment Day
+93CA8152	 	T2 - The Arcade Game
+A3E97D04	D	Tetracycline [v1]	Heliophobe
+983E17E4	D	Tetracycline [v2]	Heliophobe
+FD603AEA	D	Tetracycline [v3]	Heliophobe
+A0BF829B	D	Tetracycline [v4]	Heliophobe
+092F29D6	E	Castle, The (change extension to sg)	sg
+66A15BD9	 	Ninja, The
+3398242A	O	Ninja, The (2x overdump)	20000
+CF9F0A7F	F	Ninja, The (2x overdump) (f)	F
+2E0A57D6	F	Ninja, The (2x overdump) (h) [A]	H512
+EA47C173	F	Ninja, The (2x overdump) (h) [B]	H512
+320313EC	 	Ninja, The (JP)
+DA9BE8F0	 	Pro Yakyuu Pennant Race, The (JP)
+8640E7E8	 	Three Dragon Story, The (KR)
+AE920E4B	 	Thunder Blade
+B3007DB7	F	Thunder Blade (h) [A]	H512
+6E28B137	F	Thunder Blade (h) [B]	H512
+C0CE19B1	 	Thunder Blade (JP)
+51BD14BE	 	Time Soldiers
+443419A4	B	Time Soldiers (bad byte)	2054B=FE
+4C2F6742	F	Time Soldiers (h) [A]	H512
+23EDEDAB	F	Time Soldiers (h) [B]	H512
+FFFA5C6C	D	TMS9918 Color Test	Charles MacDonald
+BF7B7285	 	Tom and Jerry - The Movie
+A2FF09B9	B	Tom and Jerry - The Movie (bad byte)	39C0E=00
+B003F4EB	B	Tom and Jerry - The Movie (two bad bytes)	3C0EB=FE&3CEAB=FE
+0C2FC2DE	 	Tom and Jerry - The Movie [Proto]
+4F8D75EC	 	Toto World 3 (KR)
+4BC42857	 	TransBot
+BD6F2C92	O	TransBot (2x overdump)	8000
+69362BF1	O	TransBot (4x overdump)	8000
+CBBD21F6	O	TransBot (8x overdump)	8000
+D62F520A	F	TransBot (8x overdump) (h) [A]	H512
+FCB6D993	F	Transbot (8x overdump) (h) [B]	H512
+8CC9B324	H	Treinamento do Guerreiro Lobo I [A]	Wonder Boy in Monster World
+86F60EF6	H	Treinamento do Guerreiro Lobo I [B]	Wonder Boy in Monster World
+5E3E9DF1	H	Treinamento do Guerreiro Lobo II	Wonder Boy 3
+7D2C17D2	H	Treinamento do Mymo [A]	Psycho Fox
+E94784F2	H	Treinamento do Mymo [B]	Psycho Fox
+E5374022	 	Trivial Pursuit - Genus Edition
+22CCA9BB	 	Turma da Monica em - O Resgate (BR)
+E1714A88	 	TV Colosso (As Aventuras da) (BR)
+DFCFF7F8	D	twentythree vs ten	opius; SMS Power Sega 8-bit Coding Competition 2007 entry
+4E9CC98F	D	Ultima 3 SMS v20060513	Haroldo Pinheiro
+03E49A73	D	Ultima 3 SMS v20060604	Haroldo Pinheiro
+B52D60C8	 	Ultima IV
+38E34D45	F	Ultima IV (f)	F
+19D64680	T	Ultima IV (DE)
+DE9F8517	 	Ultima IV [Proto]
+15668CA4	 	Ultimate Soccer
+7840D45C	B	Ultimate Soccer (bad byte)	2AC0E=14
+046EBC1B	D	Unite Centrale de Huit Bits	Comic Bakery
+6D0F1673	D	V Counter Test Program	Charles MacDonald
+02A1B4CE	D	V Counter Test Program [beta 1]	Charles MacDonald
+023C1C32	D	V Counter Test Program [beta 2]	Charles MacDonald
+20F40CAE	 	Vampire
+39540619	B	Vampire (bad byte)	11C0E=00
+720B6973	T	Vampire (FR)	Terminus Traduction; v1.00
+D6FB6417	D	Video Mode Test Program	Charles MacDonald
+DFB0B161	 	Vigilante
+A986542B	T	Vigilante (FR)	Terminus Traduction; v1.00
+AD300BD9	D	VIK 01	L.I.N. - http://membres.lycos.fr/pin26/lin/
+57F1545B	 	Virtua Fighter Animation (BR)
+CCD47D88	D	VRAM Write Test Program (unknown version)	Charles MacDonald
+048D2105	D	VRAM Write Test Program 0.01	Charles MacDonald; bad SDSC header
+6BC10864	D	VRAM Write Test Program 0.02	Charles MacDonald
+3D55759B	 	Walter Payton Football (US)
+5359762D	 	Wanted
+428B1E7C	 	Where in the World is Carmen Sandiego (US)
+88AA8CA6	 	Where in the World is Carmen Sandiego (BR)
+912D92AF	 	Wimbledon
+B14B6195	 	Wimbledon (BR)	from Game Box Serie Esportes (BR)
+7F3AFE58	 	Wimbledon II
+A20290B6	 	Winter Olympics
+2FEC2B4A	 	Winter Olympics (BR)
+1F8EFA1D	 	Wolfchild
+73705C02	 	Wonder Boy
+EC7CF033	O	Wonder Boy (2x overdump)	20000
+F374ECBA	F	Wonder Boy (2x overdump) (f)	F
+F1EE83CF	F	Wonder Boy (2x overdump) (h) [A]	H512
+9C7A70F5	F	Wonder Boy (2x overdump) (h) [B]	H512
+679E1676	 	Wonder Boy III - The Dragon's Trap
+C999F353	F	Wonder Boy III - The Dragon's Trap (f)	F
+79EC738B	T	Wonder Boy III - The Dragon's Trap (FR)
+42012B7D	T	Wonder Boy III - The Dragon's Trap (SE)	Metalhead?
+CA500A43	H	Wonder Boy III DC	Wonder Boy III
+8CBEF0C1	 	Wonder Boy in Monster Land
+60568652	F	Wonder Boy in Monster Land (f) [A]	F
+488983B4	F	Wonder Boy in Monster Land (f) [B]	F
+43933407	T	Wonder Boy in Monster Land (FR)	Crispysix for MacroTrads
+9D98FE7F	T	Wonder Boy in Monster Land (ES)	Fran
+7522CF0A	H	Wonder Boy in Monster Land [Hack]	Wonder Boy in Monster Land giving joypad pause access
+7D7CE80B	 	Wonder Boy in Monster World
+5C87B0AE	T	Wonder Boy in Monster World (FR)	MacroTrads
+81BFF9BB	 	Wonder Boy in Monster World [Proto]
+FA8B5F3D	B	Wonder Boy in Monster World [Proto] (bad byte)	35C0E=01
+160535C5	E	Wonderboy [A] (change extension to sg)	sg
+9C0E5A04	E	Woody Pop (change extension to gg)	gg
+315917D4	 	Woody Pop - Shinjinrui no Block Kuzushi (JP)
+C9A449B7	 	World Class Leader Board
+6E1AD6FD	 	World Cup Italia '90
+45A9BD53	O	World Cup Italia '90 (f)	20000
+1ED55767	F	World Cup Italia '90 (h) (f)	H128
+2377FA48	T	World Cup Italia '90 (BR)	www.emubrazil.tk
+A6BF8F9E	 	World Cup USA 94
+A2A60BC8	 	World Games
+914D3FC4	 	World Games [Proto]
+A8B44F37	B	World Games [Proto] (two bad bytes)	1BBD7=71&1BBDF=91
+4AAAD0D6	 	World Grand Prix
+FF6E23B0	O	World Grand Prix (2x overdump)	20000
+E2FC504C	F	World Grand Prix (2x overdump) (h) [A]	H512
+AFD1B1D0	F	World Grand Prix (2x overdump) (h) [B]	H512
+7B369892	 	World Grand Prix (US)
+8FB75994	 	World Grand Prix (JP)
+72112B75	 	World Soccer
+BAE431A4	O	World Soccer (2x overdump)	20000
+2DB21448	 	WWF Wrestlemania Steel Cage Challenge
+DA8E95A9	 	WWF Wrestlemania Steel Cage Challenge [SMS-GG]
+B1B230DF	F	WWF Wrestlemania Steel Cage Challenge [SMS-GG] (f)	F
+5C205EE1	 	Xenon 2 - Megablast [Image Works]
+EC726C0D	 	Xenon 2 - Megablast [Virgin]
+F13E118D	B	Xenon 2 - Megablast [Virgin] (bad byte)	7D38=53
+3E1387F6	 	X-Men - Mojo World (BR)
+E2FD5201	E	Yamato (change extension to sg)	sg
+B33E2827	 	Y's - The Vanished Omens
+20A9E45D	F	Y's - The Vanished Omens (f)	F
+3F06DD76	B	Y's - The Vanished Omens (bad byte)	1DDC5=FF
+AFD29460	T	Y's - The Vanished Omens (FR)	Crispysix
+32759751	 	Ys (JP)
+B2B67FD9	D	Z80 Instruction Exerciser v0.10	Various
+38E4B272	D	Z80 Instruction Exerciser v0.12	Various
+05F471DE	D	Z80 Instruction Exerciser v0.12 (SCDC console)	Various
+57E80A8D	D	Z80 Instruction Exerciser v0.13	Various
+9CEB0C10	D	Z80 Instruction Exerciser v0.13 (SCDC console)	Various
+B0B78B58	D	Z80 Port Dumper	Charles MacDonald
+AF4B0973	D	Z88DK aPLib test [A]	Haroldo O. Pinheiro
+464FE40E	D	Z88DK aPLib test [B]	Haroldo O. Pinheiro
+382CB128	D	Z88DK Chicken Example [A]	Haroldo O. Pinheiro
+1316CB17	D	Z88DK Chicken Example [B]	Haroldo O. Pinheiro
+08A72ED4	D	Z88DK LibC Test [A]	Haroldo O. Pinheiro
+3E10B246	D	Z88DK LibC Test [B]	Haroldo O. Pinheiro
+8D7A5D7D	D	Z88DK LibC Test [C]	Haroldo O. Pinheiro
+9598E030	D	Z88DK Sound Test [A]	Haroldo O. Pinheiro
+CE61185D	D	Z88DK Sound Test [B]	Haroldo O. Pinheiro
+4FD68492	D	Z88DK Sound Test [C]	Haroldo O. Pinheiro
+8F6EFE98	D	Z88DK Test [A]	Haroldo O. Pinheiro
+4A444668	D	Z88DK Test [B]	Haroldo O. Pinheiro
+B20AD645	D	Z88DK Test [C]	Haroldo O. Pinheiro
+CCC71D75	D	Z88DK Test [D]	Haroldo O. Pinheiro
+905467E4	E	Zaxxon (change extension to sg)	sg
+A3EF13CB	 	Zaxxon 3-D
+bba74147	 	Zaxxon 3-D [Proto]
+60C19645	 	Zillion
+5718762C	 	Zillion (US)
+EE298F31	F	Zillion (US) (h)	H512
+A33A57F5	B	Zillion (US) (2 bad bytes)	17078=F8&17878=01
+F21A8F56	O	Zillion (US) (2 bad bytes) (2x overdump)	20000
+EF88FCAA	F	Zillion (US) (2 bad bytes) (2x overdump) (h)	H512
+ACBEBB10	O	Zillion (US) (2x overdump)	20000
+206BCF81	O	Zillion (US) (2x overdump) (BR)	20000
+B12CC8EC	F	Zillion (US) (2x overdump) (h) [A]	H512
+5CF5A9BF	F	Zillion (US) (2x overdump) (h) [B]	H512
+08B5C027	F	Zillion (US) (2x overdump) (h) [C]	H512
+E51F3D1B	T	Zillion (FR)	Terminus Traduction; v1.00
+DABC7C0E	T	Zillion (BR)
+3DF9BC7D	F	Zillion (BR) (2x overdump) (h)	H512
+2F2E3BC9	 	Zillion II - The Tri Formation
+3328B900	O	Zillion II - The Tri Formation (2x overdump)	20000
+2EBACAFC	F	Zillion II - The Tri Formation (2x overdump) (h) [A]	H512
+04A97B3C	F	Zillion II - The Tri Formation (2x overdump) (h) [B]	H512
+F0F81241	B	Zillion II - The Tri Formation (bad byte)	17A41=FF
+BC5D20DF	E	Zippy Race (change extension to sg)	sg
+9D9D0A5F	 	Zool
+093830D8	E	Zoom 909 (JP) (change extension to sg)	sg
+A463DDFA	D	Zoom Effect #1 1	Charles MacDonald
+B97E110A	D	Zoom Effect #1 2	Charles MacDonald
+980FDC4B	D	Zoom Effect #1 3	Charles MacDonald

@@ -1,0 +1,143 @@
+------------------------------------------------------------------------------                         
+                               Compiling JavaGear
+
+                      Copyright (c) 2002-2008 Chris White                                                
+------------------------------------------------------------------------------
+
+1. Required Components
+2. Setting Up
+3. Compiling
+4. Packaging
+5. Coding Tips
+
+
+------------------------------------------------------------------------------
+1. Required Components
+------------------------------------------------------------------------------
+
+
+                *** FIRSTLY, READ THE ACCOMPANYING LICENSE ***
+                
+
+I've indicated the versions that I used in case you have problems, although 
+you will probably find that things work fine with later versions.
+
+You should install these components in the order I've listed below
+
+ + Java SE Development Kit (JDK) 
+   Version: 1.6.0_06
+   http://java.sun.com/javase/downloads/index.jsp
+   
+ + Sun Java Wireless Toolkit for CLDC
+   Version: 2.5.2
+   http://java.sun.com/javame/downloads/index.jsp
+   
+ + Apache Ant
+   Version: 1.7.0
+   http://ant.apache.org/
+   
+ + Antenna
+   Version: 1.0.2
+   http://antenna.sourceforge.net/
+   
+   Simplifies MIDP build process.
+   
+ + Proguard
+   Version: 4.2
+   http://proguard.sourceforge.net/
+   
+   Code optimization & obfuscation.
+   
+   Please note that I'm using a specially compiled version of proguard which
+   improves inlining. I'm happy to provide this if you want to work on the
+   project.
+
+ + launch4j
+   Version: 3.0
+   http://launch4j.sourceforge.net
+   
+   This program generates the windows EXE file.
+   
+  
+------------------------------------------------------------------------------
+2. Setting Up
+------------------------------------------------------------------------------
+
+ + Copy proguard.jar to your WTK bin directory:
+   C:\WTK2.5.2\bin\proguard.jar
+
+ + Add the following environment variable:
+   ANT_HOME=C:\apache-ant-1.7.0
+
+ + Add the following directories to your path:
+   C:\apache-ant-1.7.0\bin
+   C:\Program Files\Java\jdk1.6.0_06\bin
+ 
+ + Unzip the source code tree to a directory:
+   C:\dev\javagear
+   
+ + Set the directories & options in the following text file:
+   C:\dev\javagear\build.properties
+
+
+------------------------------------------------------------------------------
+3. Compiling
+------------------------------------------------------------------------------ 
+
+To compile for J2ME, type the following from the javagear directory:
+
+  > ant -f j2me.xml
+  
+To package a ROM and run in the emulator:
+
+ - Copy a rom to the 'rom' subdirectory
+ - Set the rom filename in build.properties
+ 
+  > ant -f j2me.xml run
+  
+  
+To compile for J2SE, type the following from the javagear directory:
+
+  > ant -f j2se.xml
+  
+To package a ROM and run in the emulator:
+
+ - Copy a rom to the 'rom' subdirectory
+ - Set the rom filename in build.properties
+ 
+  > ant -f j2se.xml run
+  
+
+------------------------------------------------------------------------------
+4. Packaging
+------------------------------------------------------------------------------   
+
+This is easy.
+
+1/ Update the version number in build.properties appropriately.
+2/ Make sure compiling works as detailed in the previous section.
+3/ Package for release as follows
+  > ant -f release.xml 
+  
+You'll find the zip files in the release directory, ready for distribution.
+One is a binary distribution, containing two midp versions and a j2se version.
+The other is a source code distribution. 
+
+Remember that you must also distribute the source code if you release 
+changes to JavaGear :)
+    
+------------------------------------------------------------------------------
+5. Coding Tips
+------------------------------------------------------------------------------   
+  
+- Contact me on the smspower.org forum if you have questions
+
+- Use spaces for tabs (4 space indent)
+
+- Use ZEXALL to verify changes to the Z80 emulation are accurate
+  (http://www.smspower.org/dev/demos/zexall013.zip)
+  
+- Use VDPTEST to verify changes to VDP emulation are accurate
+  (http://ndsretro.com/download/SMSVDTST.zip)
+  
+------------------------------------------------------------------------------ 

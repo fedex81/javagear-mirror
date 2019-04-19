@@ -1,0 +1,146 @@
+<project name="JavaGear" default="release" basedir=".">
+
+    <description>
+        JavaGear Release Script
+    </description>
+
+  <!-- Load properties file -->
+  <property file="${basedir}/build.properties" />
+	
+  <!-- set global properties for this build -->  
+  <property name="doc" location="${basedir}/doc"/>
+  <property name="src" location="${basedir}/src"/>
+  <property name="classes" location="${basedir}/classes"/>
+  <property name="dist"  location="${basedir}/dist"/>
+  <property name="res"  location="${basedir}/res"/>
+  <property name="releaseName" value="JavaGear_ME_v${VERSION}"/>
+  <property name="release" location="${basedir}/release/${releaseName}"/>
+	
+  <property name="jarName" value="JavaGear_${target}_${VERSION}" />
+	
+  <target name="clean"
+        description="clean up" >
+    <delete dir="${dist}"/>
+    <delete dir="${classes}"/>
+    <delete dir="${basedir}/release"/>
+  </target>
+  
+  <!-- Package up JavaGear for release -->
+  <target name="release"
+      description="Release JavaGear" >
+      
+  <!-- Build J2SE Accurate version -->
+  <ant antfile="j2se.xml" inheritAll="false">
+    <property name="ACCURATE" value="true"/>
+    <property name="OBFUSCATE" value="true"/>
+  </ant>
+  
+  <!-- Build J2ME versions -->
+  <ant antfile="j2me.xml" inheritAll="false">
+    <property name="ACCURATE" value="true"/>
+    <property name="OBFUSCATE" value="true"/>
+  </ant>
+  
+  <ant antfile="j2me.xml" inheritAll="false">
+    <property name="ACCURATE" value="false"/>
+    <property name="OBFUSCATE" value="true"/>
+  </ant>
+      
+  <!-- Make binary release directory -->
+  <mkdir dir="${release}"/>
+  <mkdir dir="${release}/doc"/>
+  <mkdir dir="${release}/romtool"/>
+  <mkdir dir="${release}/emulator"/>
+      
+  <!-- docs -->
+  <copy file="${doc}/history.txt" todir="${release}/doc/"/>
+  <copy file="${doc}/license.txt" todir="${release}/doc/"/>
+  <copy file="${doc}/manual.txt" todir="${release}/doc/"/>
+  
+  <!-- Replace with correct version number -->
+  <replace file="${release}/doc/manual.txt" token="@VERSION@" value="${VERSION}"/>
+  
+  <!-- rom tool -->
+  <copy todir="${release}/romtool/">
+    <fileset dir="${basedir}/romtool">
+      <include name="**/*.romdata"/>
+      <include name="**/*.class"/>
+    </fileset>
+  </copy>
+  
+  <!-- emulator -->
+  <copy todir="${release}/emulator">
+    <fileset dir="${dist}">
+       <!-- copy only correct version -->
+       <include name="**/*${VERSION}*"/>
+       <include name="javagear.exe"/>
+    </fileset>
+  </copy>
+  
+  <!-- Load license text for zip comment -->
+  <loadfile property="zipComment" srcFile="${doc}/license.txt"/>
+  
+  <zip destfile="${release}.zip"
+   level="9"
+   comment="${zipComment}">
+   <zipfileset dir="${release}" prefix="${releaseName}"/>
+  </zip>
+  
+  <delete dir="${release}"/>
+  
+  <!-- Make source release directory -->
+  <mkdir dir="${release}s"/>
+  <mkdir dir="${release}s/rom"/>
+  
+  <copy file="${basedir}/build.properties" todir="${release}s"/>
+  <copy file="${basedir}/j2se.xml" todir="${release}s"/>
+  <copy file="${basedir}/j2me.xml" todir="${release}s"/>
+  <copy file="${basedir}/release.xml" todir="${release}s"/>
+  
+  <copy file="${basedir}/rom/!put_rom_files_here.txt" todir="${release}s/rom/"/>
+  
+  <copy todir="${release}s/src">
+    <fileset dir="${src}"/>
+  </copy>
+  
+  <copy todir="${release}s/src">
+    <fileset dir="${src}"/>
+  </copy>
+  
+  <copy todir="${release}s/platforms">
+    <fileset dir="${basedir}/platforms"/>
+  </copy>
+  
+  <copy todir="${release}s/res">
+    <fileset dir="${res}"/>
+  </copy>
+  
+  <copy todir="${release}s/doc">
+    <fileset dir="${doc}">
+    <include name="**/*.txt"/>
+    <exclude name="**/sms_docs/**"/>
+    </fileset>
+  </copy>
+  
+  <!-- Replace with correct version number -->
+  <replace file="${release}s/doc/manual.txt" token="@VERSION@" value="${VERSION}"/>
+  
+  <copy todir="${release}s/romtool/">
+    <fileset dir="${basedir}/romtool">
+      <include name="**/*.romdata"/>
+      <include name="**/*.class"/>
+      <include name="**/*.java"/>
+    </fileset>
+  </copy>
+  
+  <zip destfile="${release}s.zip"
+   level="9"
+   comment="${zipComment}">
+   <zipfileset dir="${release}s" prefix="${releaseName}s"/>
+  </zip>
+  
+  <delete dir="${release}s"/>
+ 
+</target>
+  
+</project>
