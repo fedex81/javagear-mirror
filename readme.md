@@ -1,6 +1,9 @@
 ------------------------------------------------------------------------------
 This is a github mirror for the Javagear 0.97 sourcecode.
-I've created this repository as a reference.
+I've created this repository as a reference, I'm not intending to mantain/develop it.
+
+Federico Berti
+2019
 
 ------------------------------------------------------------------------------
                                     JavaGear          
