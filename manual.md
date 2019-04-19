@@ -1,0 +1,362 @@
+------------------------------------------------------------------------------
+This is a github mirror for the Javagear 0.97 sourcecode.
+I've created this repository as a reference.
+
+------------------------------------------------------------------------------
+                                    JavaGear          
+                         Version 0.97 (6th July 2008)
+                           http://www.javagear.co.uk     
+                         
+                      Copyright (c) 2002-2008 Chris White                                                
+------------------------------------------------------------------------------
+
+1. Purpose & Cost
+2. Introduction
+3. Getting Started (Mobile Version)
+4. Getting Started (Application & Applet Versions)
+5. Usage (Mobile Version)
+6. Lightgun Emulation
+7. Saving Games
+8. Known Limitations
+9. Support & Acknowledgments
+
+x. Appendices
+
+
+------------------------------------------------------------------------------
+1. Purpose & Cost 
+------------------------------------------------------------------------------
+
+JavaGear is strictly a non-profit project. JavaGear is free. Its source code
+is free. Selling it is not allowed.
+
+ROM images are copyrighted material. They cannot be distributed without the 
+explicit permission of the copyright owner. No portions of the original game 
+code are included in the package.  
+
+Please see the accompanying license for further details.
+
+
+------------------------------------------------------------------------------
+2. Introduction 
+------------------------------------------------------------------------------
+
+JavaGear is a Sega Master System (SMS) and Game Gear (GG) Emulator for mobile
+phones and PCs.
+
+JavaGear was originally coded as my final year university project. This is a 
+highly optimised version of the original, with improved compatibility. 
+
+Four versions of JavaGear are provided:
+
+1/ Application. 
+   Run JavaGear from your desktop, just like any native app.
+   
+2/ Applet
+   Add JavaGear to your webpage.
+   
+3/ Mobile Accurate
+   JavaGear for your mobile phone. Accurate and possibly a bit slow.
+   
+4/ Mobile Fast
+   A faster version for mobile phones. Not as compatible.
+   
+
+The featuresets of these versions are outlined below:   
+
+                         Application | Applet | Mobile Accurate | Mobile Fast
+                         .-----------+--------+-----------------+-----------.
+ High Compatibility      |   yes     |   yes  |      yes        |     no    |
+ SN76489 Sound Emulation |   yes     |   yes  |      no         |     no    |
+ Lightgun Emulation      |   yes     |   yes  |      yes        |     no    |
+ State Saving            |   yes     |   no   |      yes        |     yes   |
+ SRAM Support            |   yes     |   no   |      yes        |     yes   |
+ NTSC/PAL Support        |   yes     |   yes  |      yes        |     yes   |
+ Redefinable Keys        |   yes     |   yes  |      yes        |     yes   |
+ Screen rotation         |   no      |   no   |      yes        |     yes   |
+ Screen scaling          |   yes     |   yes  |      yes        |     yes   |
+                         '--------------------------------------------------'            
+
+
+------------------------------------------------------------------------------
+3. Getting Started (Mobile Version)
+------------------------------------------------------------------------------
+
+ Requirements:
+
+ + Fast MIDP2 phone
+ + Computer with Java installation (v1.1)
+ + A method of transferring JAR files to your phone
+ + Touchscreen phone (if you want to emulate the lightgun)
+ + Some games to try. Homebrew games and demos can be found at: 
+   http://smspower.org
+   
+   
+ There are two versions of JavaGear for mobiles included:
+
+ 1/ Mobile (Fast Version) [JavaGearME_midp_fast_0.97.jar]
+    Optimised version of JavaGear. Less compatible. Faster.
+
+ 2/ Mobile (Accurate Version) [JavaGearME_midp_accurate_0.97.jar]
+    Accurate version of JavaGear. More compatible. Slower.
+    
+    Try the fast version first, and if the rom doesn't work use the accurate 
+    version. A list of titles that require the accurate version can be found 
+    in the appendix.
+
+
+ Adding a game to JavaGear:
+ --------------------------
+
+ - Copy the rom you want to package to the romtool directory.
+   We'll call this 'game.sms' for this example.
+   Note that some phones don't like filenames with special characters so you
+   might want to consider renaming the rom first. 
+   
+ - Copy the version of javagear you want to use to the romtool directory.
+   This will be a JAR file, and possibly a JAD file as well.
+   We'll call this 'javagear.jad'.
+ 
+ - Open a command window (Windows: Start -> Run -> Type 'cmd')
+ 
+ - Check java is installed by typing 'java -version'. 
+   If it isn't, install it.
+   
+ - Change to the romtool directory by typing something like:
+   cd\JavaGear\romtool
+ 
+ - Type:
+   java RomTool game.sms javagear.jad
+   
+ - Your package will now be created!
+
+  
+  Installing JavaGear on your phone
+  ---------------------------------
+
+ - You can upload the JAD/JAR to a server and download it through your phone
+   WAP browser.
+   
+ - Alternatively, you can try transferring the JAR file with bluetooth,
+   infrared or data cable.
+   
+ I can't provide you with specific help regarding this, as the process is 
+ different between phones and manufacturers.
+ 
+ You can also run the JAD/JAR with an appropriate phone emulator.
+
+
+------------------------------------------------------------------------------
+4. Getting Started (Application & Applet Versions)
+------------------------------------------------------------------------------
+
+ Requirements:
+ 
+  + Computer with Java installation (v1.1)
+  + Some games to try. Homebrew games and demos can be found at: 
+    http://smspower.org
+    
+    
+  Application:
+  ------------
+  
+  To run JavaGear as an application, just double click on the 'javagear.exe'
+  file.
+  
+  If you're not using Windows, try double clicking on the following file:
+  JavaGear_j2se_accurate_0.97.jar
+  
+  Alternatively you can run JavaGear from the command line:
+  java -jar JavaGear_j2se_accurate_0.97.jar -rom game.sms
+  
+  The '-rom' parameter is optional.   
+  
+  
+  Applet:
+  -------
+  
+  1/ Edit JavaGear_j2se_accurate_0.97.html to specify a ROM.
+  2/ Double click on JavaGear_j2se_accurate_0.97.html
+  
+  Note that with the applet version, you can either package the rom
+  into the jar file with RomTool, or store it externally on the webserver.
+  If you choose this method, just edit the 'rom' parameter in the html file.
+ 
+
+------------------------------------------------------------------------------
+5. Usage (Mobile Version)
+------------------------------------------------------------------------------
+
+The fastest emulation can be achieved with the following settings:
+
+ Scale    : False
+ Rotate   : 0
+ Frameskip: 4
+ Throttle : False
+ Min Sleep: 0
+ 
+Game Gear games run faster than Master System games, as they use a smaller
+screen area.
+ 
+Press the star key '*' to bring up the configuration menu.
+Use '2', '8' and '5' to navigate the menu.
+
+The settings menu options are as follows:
+
++ VIDEO MODE (NTSC / PAL)
+  You can emulate an NTSC or PAL console.
+  Most games run fine in NTSC. 
+  Some require PAL (Back to the Future 3, Operation Wolf)
+
++ SCALE
+  This is useful if you have a phone with a small display.
+  If set to true, the screen will be scaled to fit the phone display.
+  
+  A side-effect is that this will slow down emulation and use more memory.
+  
++ ROTATE
+  Rotate the screen in increments of 90 degrees.
+  This is useful as the SMS has a landscape resolution, whereas most phones
+  have portrait screens.
+  
+  As with scaling, this will slow down emulation and use more memory.
+  
++ FRAMESKIP
+  Skip frames to increase emulation speed. 
+  A high value will speed up emulation, but make things more jerky.
+  
++ THROTTLE
+  Locks emulation speed to 100% if JavaGear is running too fast.
+  Most phones are still relatively slow, so you can probably leave this false.
+  Alternatively lower the frameskip if emulation is too fast :)
+
++ MIN SLEEP
+  This is an important setting. 
+  JavaGear is a CPU intensive application. Some phones don't appreciate it
+  working the CPU so hard and require a period of time where JavaGear sleeps
+  per frame.
+  
+  If you find key-presses are sluggish / not registered, or there are other
+  weird effects then experiment with this setting. 
+  
+  Unfortunately setting a sleep time will slow down overall emulation.
+  
++ DEFINE KEYS
+  Reconfigure control mappings. The controls in the menu cannot be changed.
+  
+
+------------------------------------------------------------------------------
+6. Lightgun Emulation
+------------------------------------------------------------------------------
+
+Javagear emulates the lightgun. On a mobile phone you will need a 
+touch-screen device and the accurate MIDP version. 
+
+You can enable the lightgun in the settings menu on the PC version.
+The lightgun is fired by clicking the mouse. 
+
+Here is a list of lightgun games:
+
+ Assault City
+ Gangster Town
+ Laser Ghost
+ Marksman Shooting      
+ Trap Shooting        
+ Safari Hunt
+ Missile Defense 3D  [Requires 3D glasses so not much use]
+ Operation Wolf      [Set video mode to PAL]
+ Rambo III
+ Rescue Mission
+ Shooting Gallery
+ Space Gun
+ Wanted
+
+
+------------------------------------------------------------------------------
+7. Saving Games
+------------------------------------------------------------------------------
+
++ Cartridge RAM
+
+JavaGear emulates the extra RAM contained in some cartridges that is used to
+save game progress. (e.g. Phantasy Star).
+
+To ensure your progress is saved, please exit JavaGear by choosing the EXIT 
+option from the main menu. If you use your phone's red key to terminate 
+JavaGear, progress may be lost.
+
+
++ Save States
+
+A better option is JavaGear's save state system. JavaGear can save your 
+progress at any stage. Just select a slot from the main menu and choose save.
+
+This could have problems on certain phones, as it depends on how much data
+your phone manufacturer lets you save. This varies between mobile handsets. 
+
+Saved games are not support on the applet version.
+
+
+------------------------------------------------------------------------------
+8. Known Limitations
+------------------------------------------------------------------------------
+
+ + No TMS screen modes (F16 Flying Falcon)
+ + No Codemasters mapper (Micromachines etc.)
+ + No 3D Glasses (Missile Defence 3D, OutRun 3D etc.)
+
+
+------------------------------------------------------------------------------
+9. Support & Acknowledgments
+------------------------------------------------------------------------------
+
+I can't promise to answer every message on JavaGear, but every message will be 
+read. 
+
+You can find my contact details on the javagear website: 
+http://www.javagear.co.uk
+
+Special thanks to: 
+
+ + Charles MacDonald (SMS video documentation)
+ + Sean Young (Z80 documentation)
+ + Erik Duijs (Z80 CPU inspiration)
+ + Maxim (SN76489 Sound documentation)
+
+
+------------------------------------------------------------------------------
+Appendix I - Titles that require the accurate version
+------------------------------------------------------------------------------
+
+The fast version of JavaGear doesn't emulate hardware sprite collisions.
+
+The interrupt emulation is also less accurate, which can result in some 
+in-game effects not functioning correctly.
+
+Below is an incomplete list of games that require the accurate version. I
+welcome your compatibility reports.
+
+ - Cheese Cat'astrophe (SMS)
+ - Earthworm Jim (GG)
+ - Ecco the Dolphin (SMS, GG)
+ - Fantazy Zone Gear (GG)
+ - Impossible Mission (SMS)
+ - Taz-Mania (SMS, GG)
+
+Lightgun games require the accurate version. Please see the Lightgun section
+for further details.
+
+
+------------------------------------------------------------------------------
+Appendix II - RomTool
+------------------------------------------------------------------------------
+
+RomTool uses a database to identify ROMs. 
+
+The database is the same as the one used by Maxim's SMSChecker tool. The
+latest database files are available from here:
+
+http://www.smspower.org/maxim/smschecker/
+
+
+------------------------------------------------------------------------------
